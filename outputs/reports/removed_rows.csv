@@ -1,0 +1,2 @@
+district,location,rooms,area,floor,total_floors,price,removal_reason
+district,location,,,,,,missing_or_invalid_rooms; missing_or_invalid_area; missing_or_invalid_floor; missing_or_invalid_total_floors; missing_or_invalid_price

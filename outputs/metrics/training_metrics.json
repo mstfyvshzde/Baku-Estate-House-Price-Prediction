@@ -1,0 +1,24 @@
+{
+    "model_type": "StackingRegressor",
+    "train_rows": 2320,
+    "test_rows": 580,
+    "features": {
+        "categorical": [
+            "district",
+            "location"
+        ],
+        "numeric": [
+            "rooms",
+            "area",
+            "floor",
+            "total_floors",
+            "area_per_room"
+        ]
+    },
+    "train_mae": 22100.697564461578,
+    "test_mae": 26730.938911502602,
+    "train_rmse": 32793.35107822012,
+    "test_rmse": 39430.51221389687,
+    "train_r2": 0.9545333913972145,
+    "test_r2": 0.9364487643063677
+}

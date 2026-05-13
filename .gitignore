@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# macOS
+.DS_Store
+
+# API / packaging files not included in ML-only repo
+app/
+server_entry.py
+SahzadeEstateBackend.spec
+
+# Cache / build
+build/
+dist/
+*.log
+.ipynb_checkpoints/

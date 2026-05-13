@@ -1,0 +1,2901 @@
+district,location,rooms,area,floor,total_floors,price
+abseron,ceyranbatan,3,110,7,9,150500
+abseron,masazir,2,45,5,8,60000
+abseron,mehdiabad,3,111,3,9,141500
+abseron,saray,3,100,4,12,134000
+abseron,ceyranbatan,3,114,9,16,170500
+abseron,ceyranbatan,2,63,3,14,79500
+abseron,masazir,2,68,11,16,82500
+abseron,masazir,2,58,1,7,83500
+abseron,ceyranbatan,2,69,7,10,102500
+abseron,masazir,3,90,4,12,138000
+abseron,mehdiabad,3,90,2,11,120000
+abseron,masazir,3,113,3,14,158500
+abseron,ceyranbatan,2,81,4,5,116000
+abseron,masazir,3,79,7,16,107000
+abseron,ceyranbatan,2,80,7,9,111500
+abseron,saray,2,49,4,7,64000
+abseron,ceyranbatan,2,70,1,5,94000
+abseron,masazir,2,77,6,8,102500
+abseron,saray,2,74,5,5,105000
+abseron,masazir,2,83,5,5,104000
+abseron,masazir,3,84,14,16,116000
+abseron,saray,3,79,4,5,103000
+abseron,mehdiabad,3,97,8,12,120000
+abseron,saray,2,47,5,5,62500
+abseron,ceyranbatan,3,113,2,5,157000
+abseron,masazir,2,58,6,17,76000
+abseron,mehdiabad,3,95,4,4,125000
+abseron,ceyranbatan,3,109,1,5,123500
+abseron,mehdiabad,2,64,2,4,74000
+abseron,mehdiabad,2,55,3,12,66500
+abseron,ceyranbatan,2,76,3,9,102500
+abseron,mehdiabad,4,137,13,14,150500
+abseron,mehdiabad,3,102,3,4,113000
+abseron,masazir,2,83,5,9,117500
+abseron,masazir,3,92,4,5,122500
+abseron,ceyranbatan,1,50,11,16,76500
+abseron,masazir,2,66,5,6,92000
+abseron,masazir,3,106,5,8,152000
+abseron,masazir,2,56,5,5,80500
+abseron,masazir,2,83,2,14,140000
+abseron,saray,2,70,3,7,92000
+abseron,saray,2,67,1,9,84000
+abseron,ceyranbatan,2,68,1,12,76500
+abseron,masazir,3,87,5,5,104000
+abseron,mehdiabad,2,65,3,5,89500
+abseron,saray,3,95,5,9,123500
+abseron,masazir,2,52,2,12,76000
+abseron,mehdiabad,2,65,2,5,76500
+abseron,ceyranbatan,2,77,12,12,87000
+abseron,mehdiabad,2,69,5,9,96500
+abseron,ceyranbatan,3,114,4,9,139000
+abseron,masazir,2,82,2,14,122000
+abseron,masazir,1,53,4,9,87500
+abseron,saray,4,111,17,17,149500
+abseron,masazir,1,47,12,17,76500
+abseron,saray,3,105,9,17,153500
+abseron,saray,3,86,14,17,117000
+abseron,saray,1,52,14,14,65000
+abseron,mehdiabad,3,102,1,5,112500
+abseron,saray,1,39,10,12,58500
+abseron,mehdiabad,2,55,1,11,72000
+abseron,mehdiabad,2,50,9,11,71000
+abseron,masazir,2,54,6,14,71500
+abseron,ceyranbatan,2,69,2,5,81000
+abseron,mehdiabad,3,111,3,4,137500
+abseron,ceyranbatan,2,57,4,14,85500
+abseron,saray,2,72,16,16,96000
+abseron,masazir,2,43,7,8,65500
+abseron,mehdiabad,3,94,1,14,110500
+abseron,mehdiabad,2,86,1,6,93000
+abseron,saray,3,60,13,17,84500
+abseron,saray,3,85,6,9,99000
+abseron,ceyranbatan,2,69,2,16,95000
+abseron,ceyranbatan,3,106,1,5,123000
+abseron,ceyranbatan,3,94,10,16,126500
+abseron,masazir,3,103,4,14,140500
+abseron,masazir,2,77,4,8,106500
+abseron,masazir,3,88,2,12,123000
+abseron,masazir,3,71,9,14,108000
+abseron,mehdiabad,2,65,3,4,76500
+abseron,masazir,3,84,6,14,127500
+abseron,masazir,3,107,3,12,133000
+abseron,ceyranbatan,2,78,2,5,89500
+abseron,masazir,3,94,2,9,121500
+abseron,masazir,2,48,9,17,66500
+abseron,mehdiabad,3,109,12,14,117500
+abseron,saray,2,60,4,12,76500
+abseron,masazir,3,109,9,9,135000
+abseron,saray,1,42,3,7,55500
+abseron,mehdiabad,1,38,3,11,52500
+abseron,saray,2,60,9,17,82500
+abseron,saray,2,74,3,12,102500
+abseron,masazir,1,44,5,5,60500
+abseron,masazir,2,73,8,9,91000
+abseron,masazir,2,45,2,14,63500
+abseron,masazir,2,46,2,12,70500
+abseron,mehdiabad,3,93,6,11,108500
+abseron,ceyranbatan,2,80,3,10,114500
+abseron,ceyranbatan,2,63,1,5,87500
+abseron,saray,2,78,14,14,86000
+abseron,mehdiabad,3,123,4,4,137000
+abseron,masazir,3,95,7,8,127000
+abseron,masazir,2,79,7,7,117500
+abseron,ceyranbatan,3,75,3,9,111000
+abseron,mehdiabad,3,77,5,12,101000
+abseron,masazir,2,48,4,9,63500
+abseron,ceyranbatan,2,60,4,14,78000
+abseron,masazir,4,121,6,9,152000
+abseron,saray,3,75,6,17,99500
+abseron,ceyranbatan,3,72,7,14,97000
+abseron,saray,4,110,12,12,132500
+abseron,saray,2,80,13,14,103500
+abseron,masazir,2,78,13,16,110000
+abseron,ceyranbatan,2,67,10,10,93000
+abseron,ceyranbatan,2,63,3,14,76500
+abseron,masazir,1,50,4,6,82000
+abseron,masazir,3,70,5,5,95000
+abseron,masazir,3,82,5,17,108500
+abseron,saray,2,72,6,7,101500
+abseron,ceyranbatan,3,118,6,10,153000
+abseron,mehdiabad,4,137,7,14,171000
+abseron,masazir,3,73,9,14,101000
+abseron,mehdiabad,2,75,1,9,79500
+abseron,masazir,3,72,6,9,94500
+abseron,masazir,2,63,1,8,78000
+abseron,ceyranbatan,3,111,6,14,131000
+abseron,ceyranbatan,3,112,6,14,139000
+abseron,ceyranbatan,3,75,1,5,84000
+abseron,masazir,2,59,7,9,88500
+abseron,masazir,2,61,5,10,77000
+abseron,ceyranbatan,3,103,4,5,131000
+abseron,mehdiabad,2,80,6,6,94500
+abseron,mehdiabad,2,86,11,11,111500
+abseron,masazir,1,49,8,10,72000
+abseron,saray,2,71,6,9,103000
+abseron,mehdiabad,1,53,10,14,69500
+abseron,mehdiabad,3,78,4,4,93000
+abseron,saray,2,67,1,14,78000
+abseron,saray,2,46,12,14,69000
+abseron,ceyranbatan,3,102,8,10,129000
+abseron,masazir,3,106,17,17,135000
+abseron,masazir,2,56,8,10,73500
+abseron,ceyranbatan,2,78,6,9,115500
+abseron,saray,3,94,1,5,117500
+abseron,ceyranbatan,2,62,3,9,86500
+abseron,ceyranbatan,2,70,13,14,103500
+abseron,ceyranbatan,2,54,10,12,71000
+abseron,saray,3,82,13,14,107500
+abseron,mehdiabad,2,76,2,9,98500
+abseron,ceyranbatan,2,71,2,5,86500
+abseron,ceyranbatan,3,118,9,9,186000
+abseron,masazir,2,70,3,5,90500
+abseron,mehdiabad,3,122,1,4,160500
+abseron,ceyranbatan,2,76,6,12,105500
+abseron,masazir,2,79,12,14,107000
+abseron,masazir,3,105,4,7,140500
+abseron,mehdiabad,2,55,3,6,74000
+abseron,masazir,1,41,1,8,55000
+abseron,masazir,4,130,5,5,175000
+abseron,mehdiabad,2,62,4,9,76500
+abseron,masazir,3,97,11,16,132000
+abseron,masazir,2,81,17,17,113000
+abseron,masazir,2,64,10,14,96500
+abseron,ceyranbatan,2,64,11,14,93000
+abseron,saray,2,82,5,9,99500
+abseron,saray,2,59,1,5,62000
+abseron,mehdiabad,3,98,3,6,120000
+abseron,masazir,2,81,5,9,110000
+abseron,ceyranbatan,3,82,1,9,107000
+abseron,ceyranbatan,3,109,11,14,135000
+abseron,masazir,3,110,3,12,167000
+abseron,saray,2,78,5,7,93000
+abseron,mehdiabad,4,128,2,9,169500
+abseron,saray,2,49,1,7,70000
+abseron,masazir,2,54,6,8,81000
+abseron,ceyranbatan,2,63,1,14,77000
+abseron,mehdiabad,2,57,4,4,72500
+abseron,mehdiabad,3,116,5,5,145500
+abseron,ceyranbatan,3,109,6,10,163000
+abseron,ceyranbatan,3,116,6,16,139500
+abseron,ceyranbatan,2,55,2,9,67500
+abseron,saray,2,73,2,7,92000
+abseron,saray,2,60,3,7,80500
+abseron,ceyranbatan,3,95,9,10,122000
+abseron,ceyranbatan,2,64,1,12,87000
+abseron,masazir,1,51,5,6,83500
+abseron,mehdiabad,1,48,2,5,66000
+abseron,masazir,4,135,5,6,157500
+abseron,saray,3,97,13,14,104500
+abseron,saray,2,45,6,16,62500
+abseron,saray,3,79,7,17,116000
+abseron,masazir,2,51,5,16,68000
+abseron,mehdiabad,3,104,6,6,132500
+abseron,masazir,2,60,4,6,81500
+abseron,saray,3,91,9,16,107500
+abseron,masazir,3,94,4,6,134500
+abseron,ceyranbatan,3,81,5,14,120500
+abseron,masazir,2,57,5,14,80500
+abseron,masazir,3,74,6,9,112000
+abseron,mehdiabad,3,124,2,9,151000
+bineqedi,9cu mikrorayon,2,62,4,9,149000
+bineqedi,8ci mikrorayon,3,72,1,5,171000
+bineqedi,28may q,3,111,8,9,382000
+bineqedi,6ci mikrorayon,3,114,11,18,269000
+bineqedi,7ci mikrorayon,2,67,9,16,217000
+bineqedi,7ci mikrorayon,3,123,12,17,309000
+bineqedi,6ci mikrorayon,2,51,9,18,145000
+bineqedi,9cu mikrorayon,3,74,6,19,202000
+bineqedi,bineqedi,3,84,2,16,155000
+bineqedi,7ci mikrorayon,2,81,11,17,205000
+bineqedi,6ci mikrorayon,2,92,14,16,260000
+bineqedi,bineqedi,2,69,1,3,115000
+bineqedi,8ci mikrorayon,2,83,9,16,307000
+bineqedi,9cu mikrorayon,3,87,4,17,224000
+bineqedi,9cu mikrorayon,1,50,4,19,160000
+bineqedi,bileceri,2,94,5,5,165000
+bineqedi,bileceri,4,115,2,5,250000
+bineqedi,6ci mikrorayon,3,74,2,7,210000
+bineqedi,6ci mikrorayon,3,108,7,18,320000
+bineqedi,7ci mikrorayon,3,93,9,13,221000
+bineqedi,6ci mikrorayon,3,107,1,14,247000
+bineqedi,bileceri,2,60,11,15,132000
+bineqedi,8ci mikrorayon,2,75,14,19,201000
+bineqedi,8ci mikrorayon,3,113,4,18,295000
+bineqedi,28may q,3,112,5,9,342000
+bineqedi,bileceri,4,103,1,5,237000
+bineqedi,8ci mikrorayon,2,70,2,5,211000
+bineqedi,7ci mikrorayon,3,99,7,12,288000
+bineqedi,9cu mikrorayon,3,82,7,17,286000
+bineqedi,6ci mikrorayon,3,102,1,7,262000
+bineqedi,8ci mikrorayon,3,85,4,16,284000
+bineqedi,6ci mikrorayon,3,106,9,17,259000
+bineqedi,9cu mikrorayon,2,65,1,5,179000
+bineqedi,6ci mikrorayon,2,61,3,7,176000
+bineqedi,6ci mikrorayon,3,115,1,16,297000
+bineqedi,bileceri,2,51,5,10,92000
+bineqedi,bileceri,2,61,1,5,118000
+bineqedi,7ci mikrorayon,2,61,8,9,157000
+bineqedi,6ci mikrorayon,2,89,5,7,200000
+bineqedi,8ci mikrorayon,2,68,2,19,220000
+bineqedi,6ci mikrorayon,3,126,5,18,320000
+bineqedi,7ci mikrorayon,2,66,14,18,207000
+bineqedi,7ci mikrorayon,3,76,1,13,212000
+bineqedi,8ci mikrorayon,2,95,8,19,264000
+bineqedi,6ci mikrorayon,3,92,18,18,214000
+bineqedi,8ci mikrorayon,1,46,5,5,135000
+bineqedi,8ci mikrorayon,2,81,5,9,208000
+bineqedi,bileceri,3,130,6,10,250000
+bineqedi,9cu mikrorayon,2,64,10,19,193000
+bineqedi,28may q,3,96,10,17,304000
+bineqedi,bileceri,3,90,15,17,173000
+bineqedi,bineqedi,1,66,2,3,163000
+bineqedi,7ci mikrorayon,3,118,5,9,257000
+bineqedi,7ci mikrorayon,3,124,3,18,326000
+bineqedi,7ci mikrorayon,2,89,1,5,241000
+bineqedi,9cu mikrorayon,3,105,2,9,288000
+bineqedi,9cu mikrorayon,1,64,15,17,189000
+bineqedi,bileceri,2,55,15,17,96000
+bineqedi,bileceri,2,85,5,10,160000
+bineqedi,7ci mikrorayon,4,110,3,9,270000
+bineqedi,6ci mikrorayon,2,79,14,19,197000
+bineqedi,bineqedi,2,63,16,17,99000
+bineqedi,bileceri,1,58,8,10,94000
+bineqedi,6ci mikrorayon,2,88,6,18,277000
+bineqedi,bineqedi,3,112,1,3,260000
+bineqedi,6ci mikrorayon,2,58,11,19,162000
+bineqedi,8ci mikrorayon,3,100,5,5,242000
+bineqedi,6ci mikrorayon,4,105,2,5,228000
+bineqedi,6ci mikrorayon,2,87,5,5,235000
+bineqedi,7ci mikrorayon,3,117,4,17,338000
+bineqedi,bineqedi,3,128,13,17,260000
+bineqedi,7ci mikrorayon,3,89,4,18,263000
+bineqedi,9cu mikrorayon,2,86,1,17,274000
+bineqedi,9cu mikrorayon,4,119,6,18,390000
+bineqedi,8ci mikrorayon,3,97,19,19,263000
+bineqedi,bileceri,2,74,11,17,107000
+bineqedi,bileceri,2,83,9,15,127000
+bineqedi,8ci mikrorayon,3,114,16,16,311000
+bineqedi,7ci mikrorayon,3,93,9,13,252000
+bineqedi,7ci mikrorayon,3,87,5,12,202000
+bineqedi,9cu mikrorayon,1,50,4,9,160000
+bineqedi,8ci mikrorayon,1,51,4,14,142000
+bineqedi,6ci mikrorayon,2,53,4,19,158000
+bineqedi,6ci mikrorayon,4,161,1,5,320000
+bineqedi,6ci mikrorayon,3,89,2,5,209000
+bineqedi,9cu mikrorayon,3,84,13,19,252000
+bineqedi,7ci mikrorayon,3,109,4,17,335000
+bineqedi,6ci mikrorayon,2,49,1,7,113000
+bineqedi,7ci mikrorayon,2,74,2,5,224000
+bineqedi,9cu mikrorayon,3,129,7,9,263000
+bineqedi,7ci mikrorayon,2,48,5,9,139000
+bineqedi,8ci mikrorayon,2,70,9,14,232000
+bineqedi,9cu mikrorayon,3,71,2,5,234000
+bineqedi,8ci mikrorayon,1,53,2,17,176000
+bineqedi,7ci mikrorayon,1,58,16,17,175000
+bineqedi,7ci mikrorayon,2,55,7,12,160000
+bineqedi,bileceri,3,99,3,5,172000
+bineqedi,bileceri,3,70,14,17,106000
+bineqedi,8ci mikrorayon,3,73,5,9,223000
+bineqedi,9cu mikrorayon,2,85,8,19,249000
+bineqedi,28may q,4,114,2,5,373000
+bineqedi,8ci mikrorayon,2,75,8,16,224000
+bineqedi,9cu mikrorayon,2,49,14,17,125000
+bineqedi,9cu mikrorayon,4,162,8,9,390000
+bineqedi,8ci mikrorayon,3,90,7,19,329000
+bineqedi,7ci mikrorayon,2,75,13,17,202000
+bineqedi,bineqedi,2,49,11,18,171000
+bineqedi,9cu mikrorayon,2,86,2,9,242000
+bineqedi,7ci mikrorayon,3,111,3,5,322000
+bineqedi,7ci mikrorayon,3,118,9,13,259000
+bineqedi,bineqedi,4,111,4,17,260000
+bineqedi,7ci mikrorayon,2,65,2,18,151000
+bineqedi,8ci mikrorayon,3,120,3,9,318000
+bineqedi,9cu mikrorayon,3,107,4,9,275000
+bineqedi,6ci mikrorayon,3,127,6,16,317000
+bineqedi,9cu mikrorayon,3,89,7,9,255000
+bineqedi,7ci mikrorayon,2,63,10,17,136000
+bineqedi,bileceri,3,73,10,17,170000
+bineqedi,28may q,3,93,4,18,364000
+bineqedi,8ci mikrorayon,3,75,6,14,242000
+bineqedi,bineqedi,3,128,6,16,260000
+bineqedi,7ci mikrorayon,2,49,4,9,166000
+bineqedi,bileceri,2,95,1,17,157000
+bineqedi,7ci mikrorayon,2,85,2,12,229000
+bineqedi,9cu mikrorayon,1,55,8,19,171000
+bineqedi,9cu mikrorayon,2,47,3,5,154000
+bineqedi,7ci mikrorayon,2,92,14,17,269000
+bineqedi,9cu mikrorayon,4,152,2,17,390000
+bineqedi,7ci mikrorayon,1,56,12,16,137000
+bineqedi,bileceri,2,58,1,5,119000
+bineqedi,8ci mikrorayon,2,93,7,17,312000
+bineqedi,bileceri,3,87,3,10,171000
+bineqedi,bileceri,2,67,10,10,105000
+bineqedi,9cu mikrorayon,3,117,4,5,316000
+bineqedi,8ci mikrorayon,2,84,5,5,211000
+bineqedi,bineqedi,1,66,2,3,183000
+bineqedi,bineqedi,2,47,3,5,132000
+bineqedi,8ci mikrorayon,2,77,14,17,219000
+bineqedi,9cu mikrorayon,3,116,7,9,293000
+bineqedi,7ci mikrorayon,3,96,4,17,252000
+bineqedi,9cu mikrorayon,3,75,1,5,185000
+bineqedi,6ci mikrorayon,2,80,4,17,218000
+bineqedi,bineqedi,2,64,12,16,111000
+bineqedi,bileceri,2,80,2,15,200000
+bineqedi,bileceri,1,64,5,5,153000
+bineqedi,28may q,3,106,1,12,278000
+bineqedi,6ci mikrorayon,3,71,5,5,156000
+bineqedi,7ci mikrorayon,3,119,3,16,335000
+bineqedi,6ci mikrorayon,2,72,15,19,182000
+bineqedi,7ci mikrorayon,2,88,16,17,223000
+bineqedi,bineqedi,2,54,2,5,151000
+bineqedi,8ci mikrorayon,3,78,8,16,237000
+bineqedi,bileceri,2,46,3,17,124000
+bineqedi,6ci mikrorayon,2,65,7,7,186000
+bineqedi,7ci mikrorayon,2,51,7,9,138000
+bineqedi,7ci mikrorayon,2,66,6,18,148000
+bineqedi,bileceri,2,86,4,10,123000
+bineqedi,6ci mikrorayon,3,74,7,7,191000
+bineqedi,8ci mikrorayon,3,126,11,17,390000
+bineqedi,7ci mikrorayon,2,48,9,12,120000
+bineqedi,7ci mikrorayon,3,124,5,5,321000
+bineqedi,9cu mikrorayon,2,81,6,9,244000
+bineqedi,8ci mikrorayon,3,123,12,14,313000
+bineqedi,bineqedi,3,109,3,5,235000
+bineqedi,7ci mikrorayon,3,120,11,17,262000
+bineqedi,9cu mikrorayon,3,128,5,19,340000
+bineqedi,9cu mikrorayon,2,83,3,5,227000
+bineqedi,6ci mikrorayon,3,130,4,5,320000
+bineqedi,7ci mikrorayon,3,82,3,9,194000
+bineqedi,8ci mikrorayon,3,117,2,17,390000
+bineqedi,8ci mikrorayon,2,56,6,19,184000
+bineqedi,bineqedi,3,118,8,17,260000
+bineqedi,bileceri,2,81,15,17,198000
+bineqedi,7ci mikrorayon,2,57,5,18,164000
+bineqedi,bineqedi,3,103,2,3,159000
+bineqedi,8ci mikrorayon,3,123,3,16,375000
+bineqedi,6ci mikrorayon,3,85,3,18,227000
+bineqedi,9cu mikrorayon,3,78,3,5,258000
+bineqedi,9cu mikrorayon,3,109,1,5,212000
+bineqedi,bineqedi,3,97,2,3,175000
+bineqedi,28may q,3,114,1,5,394000
+bineqedi,9cu mikrorayon,3,115,5,9,296000
+bineqedi,7ci mikrorayon,3,75,12,16,186000
+bineqedi,8ci mikrorayon,2,75,4,5,238000
+bineqedi,bileceri,2,91,5,5,185000
+bineqedi,8ci mikrorayon,3,81,15,19,271000
+bineqedi,6ci mikrorayon,3,130,2,19,273000
+bineqedi,bineqedi,2,60,2,16,171000
+bineqedi,bileceri,4,117,3,5,223000
+bineqedi,bineqedi,2,60,12,17,212000
+bineqedi,6ci mikrorayon,3,122,5,7,269000
+bineqedi,8ci mikrorayon,3,80,15,18,236000
+bineqedi,7ci mikrorayon,1,53,2,17,131000
+bineqedi,9cu mikrorayon,1,49,15,19,120000
+bineqedi,7ci mikrorayon,3,108,8,9,311000
+bineqedi,bileceri,3,103,7,15,178000
+bineqedi,28may q,3,120,3,5,420000
+bineqedi,9cu mikrorayon,3,101,2,9,219000
+bineqedi,6ci mikrorayon,3,75,12,17,209000
+bineqedi,6ci mikrorayon,3,114,7,7,284000
+bineqedi,bileceri,2,76,3,5,164000
+bineqedi,8ci mikrorayon,3,75,3,5,218000
+bineqedi,7ci mikrorayon,2,81,2,5,244000
+bineqedi,8ci mikrorayon,3,92,9,9,285000
+bineqedi,8ci mikrorayon,4,107,4,19,345000
+bineqedi,28may q,4,90,4,12,293000
+bineqedi,7ci mikrorayon,3,102,6,17,287000
+bineqedi,bineqedi,2,46,1,3,80000
+bineqedi,bileceri,2,85,4,5,216000
+bineqedi,7ci mikrorayon,2,88,5,13,216000
+bineqedi,7ci mikrorayon,3,91,5,16,249000
+bineqedi,bineqedi,2,61,4,18,127000
+bineqedi,6ci mikrorayon,2,69,8,18,235000
+bineqedi,9cu mikrorayon,2,55,17,18,156000
+bineqedi,6ci mikrorayon,2,74,4,14,199000
+bineqedi,bileceri,3,88,1,5,167000
+bineqedi,bileceri,2,70,5,5,134000
+bineqedi,7ci mikrorayon,3,105,10,12,269000
+bineqedi,bineqedi,2,55,12,18,164000
+bineqedi,6ci mikrorayon,2,66,17,19,175000
+bineqedi,7ci mikrorayon,3,80,10,13,214000
+bineqedi,7ci mikrorayon,3,104,12,13,270000
+bineqedi,6ci mikrorayon,2,52,10,18,157000
+bineqedi,bineqedi,1,63,1,5,152000
+bineqedi,9cu mikrorayon,4,118,1,9,299000
+bineqedi,8ci mikrorayon,3,96,7,18,317000
+bineqedi,9cu mikrorayon,2,53,7,19,175000
+bineqedi,8ci mikrorayon,3,104,11,14,356000
+bineqedi,9cu mikrorayon,3,82,5,9,241000
+bineqedi,7ci mikrorayon,2,58,16,17,151000
+bineqedi,bileceri,2,52,13,17,136000
+bineqedi,7ci mikrorayon,3,92,11,13,215000
+bineqedi,28may q,3,120,9,18,336000
+bineqedi,9cu mikrorayon,3,110,1,9,234000
+bineqedi,9cu mikrorayon,2,80,7,9,238000
+bineqedi,8ci mikrorayon,3,118,6,14,341000
+bineqedi,28may q,3,87,7,9,306000
+bineqedi,bineqedi,4,150,6,17,260000
+bineqedi,8ci mikrorayon,2,66,8,14,251000
+bineqedi,bileceri,2,57,3,5,90000
+bineqedi,28may q,3,103,7,17,328000
+bineqedi,8ci mikrorayon,2,87,2,5,292000
+bineqedi,bineqedi,2,52,9,17,182000
+bineqedi,9cu mikrorayon,2,52,10,18,147000
+bineqedi,9cu mikrorayon,3,130,12,17,357000
+bineqedi,9cu mikrorayon,2,80,18,18,257000
+bineqedi,8ci mikrorayon,3,103,12,16,277000
+bineqedi,8ci mikrorayon,3,79,6,9,268000
+bineqedi,9cu mikrorayon,3,127,15,19,374000
+bineqedi,6ci mikrorayon,2,64,4,5,145000
+bineqedi,6ci mikrorayon,2,89,5,5,244000
+bineqedi,bineqedi,2,50,4,5,123000
+bineqedi,7ci mikrorayon,2,87,18,18,210000
+bineqedi,7ci mikrorayon,2,59,1,18,172000
+bineqedi,8ci mikrorayon,2,59,8,9,159000
+bineqedi,bineqedi,3,77,3,3,180000
+bineqedi,6ci mikrorayon,2,51,4,5,143000
+bineqedi,7ci mikrorayon,2,58,2,18,135000
+bineqedi,bineqedi,3,106,11,18,226000
+bineqedi,7ci mikrorayon,2,80,6,16,239000
+bineqedi,bineqedi,3,120,11,18,260000
+bineqedi,8ci mikrorayon,2,59,14,14,196000
+bineqedi,bineqedi,3,78,8,17,155000
+bineqedi,7ci mikrorayon,3,123,1,9,281000
+bineqedi,28may q,3,120,8,9,355000
+bineqedi,7ci mikrorayon,4,127,2,9,361000
+bineqedi,9cu mikrorayon,3,95,9,9,226000
+bineqedi,9cu mikrorayon,2,68,16,19,197000
+bineqedi,bileceri,2,58,6,15,108000
+bineqedi,7ci mikrorayon,4,153,3,12,327000
+bineqedi,8ci mikrorayon,4,143,13,14,390000
+bineqedi,6ci mikrorayon,3,80,6,7,198000
+bineqedi,bileceri,1,46,1,5,116000
+bineqedi,bileceri,2,90,1,10,130000
+bineqedi,9cu mikrorayon,4,161,1,18,313000
+bineqedi,bineqedi,2,66,6,17,107000
+bineqedi,8ci mikrorayon,3,87,13,19,234000
+bineqedi,9cu mikrorayon,2,50,1,5,129000
+bineqedi,9cu mikrorayon,2,72,4,17,253000
+bineqedi,9cu mikrorayon,3,87,1,5,235000
+bineqedi,9cu mikrorayon,2,65,2,5,186000
+bineqedi,9cu mikrorayon,2,49,6,17,154000
+bineqedi,7ci mikrorayon,3,120,3,17,328000
+bineqedi,bileceri,2,94,11,17,140000
+bineqedi,7ci mikrorayon,4,155,7,9,341000
+bineqedi,9cu mikrorayon,2,54,5,18,158000
+bineqedi,7ci mikrorayon,2,53,2,5,138000
+bineqedi,6ci mikrorayon,2,80,5,5,198000
+bineqedi,7ci mikrorayon,2,50,8,17,132000
+bineqedi,8ci mikrorayon,2,72,7,14,226000
+bineqedi,9cu mikrorayon,3,109,8,9,242000
+bineqedi,bineqedi,2,57,15,16,133000
+bineqedi,bineqedi,2,64,4,5,145000
+bineqedi,7ci mikrorayon,3,101,8,16,251000
+bineqedi,bineqedi,2,50,1,18,163000
+bineqedi,9cu mikrorayon,3,120,16,18,274000
+bineqedi,6ci mikrorayon,2,69,4,5,203000
+bineqedi,8ci mikrorayon,4,153,2,17,390000
+bineqedi,9cu mikrorayon,2,94,6,9,227000
+bineqedi,9cu mikrorayon,3,118,14,17,261000
+bineqedi,9cu mikrorayon,3,114,8,19,322000
+bineqedi,8ci mikrorayon,2,46,4,16,150000
+bineqedi,7ci mikrorayon,2,95,9,9,231000
+bineqedi,9cu mikrorayon,2,64,1,5,125000
+bineqedi,bileceri,4,133,9,10,211000
+bineqedi,28may q,3,96,14,18,326000
+bineqedi,8ci mikrorayon,3,70,7,18,192000
+bineqedi,6ci mikrorayon,4,123,11,17,300000
+bineqedi,7ci mikrorayon,2,70,4,16,193000
+bineqedi,9cu mikrorayon,2,84,3,19,235000
+bineqedi,7ci mikrorayon,2,69,10,13,152000
+bineqedi,28may q,3,96,6,17,309000
+bineqedi,6ci mikrorayon,2,45,5,19,114000
+bineqedi,8ci mikrorayon,3,98,6,16,251000
+bineqedi,7ci mikrorayon,3,80,15,18,221000
+bineqedi,8ci mikrorayon,3,87,18,19,302000
+bineqedi,6ci mikrorayon,3,104,7,14,250000
+bineqedi,bineqedi,2,72,2,3,210000
+bineqedi,bileceri,2,92,14,15,205000
+bineqedi,6ci mikrorayon,2,58,5,5,136000
+bineqedi,7ci mikrorayon,3,88,9,16,291000
+bineqedi,6ci mikrorayon,3,96,3,5,287000
+bineqedi,7ci mikrorayon,3,123,7,9,291000
+bineqedi,7ci mikrorayon,3,110,3,18,311000
+bineqedi,8ci mikrorayon,3,107,1,5,325000
+bineqedi,7ci mikrorayon,2,79,4,13,241000
+bineqedi,7ci mikrorayon,2,80,5,16,225000
+bineqedi,6ci mikrorayon,2,95,1,19,203000
+bineqedi,bineqedi,2,74,3,5,131000
+bineqedi,9cu mikrorayon,2,68,1,9,169000
+bineqedi,28may q,3,91,2,5,272000
+bineqedi,28may q,3,85,11,18,318000
+bineqedi,6ci mikrorayon,2,91,1,5,203000
+bineqedi,bileceri,3,78,2,10,146000
+bineqedi,9cu mikrorayon,3,116,3,9,366000
+bineqedi,28may q,4,92,13,17,296000
+bineqedi,7ci mikrorayon,3,85,10,16,264000
+bineqedi,7ci mikrorayon,3,102,7,9,227000
+bineqedi,bineqedi,4,163,4,17,260000
+bineqedi,7ci mikrorayon,2,69,14,18,184000
+bineqedi,bineqedi,1,63,1,3,107000
+bineqedi,bileceri,2,85,14,17,190000
+bineqedi,9cu mikrorayon,2,64,5,5,189000
+bineqedi,7ci mikrorayon,3,118,3,18,292000
+bineqedi,7ci mikrorayon,4,114,10,13,293000
+bineqedi,9cu mikrorayon,3,77,2,5,211000
+bineqedi,bineqedi,3,120,6,16,260000
+bineqedi,6ci mikrorayon,4,142,9,18,320000
+bineqedi,8ci mikrorayon,2,81,6,9,231000
+bineqedi,9cu mikrorayon,2,92,1,19,203000
+xetai,ehmedli,3,139,9,17,356000
+xetai,kohne gunesli,3,81,9,16,178000
+xetai,ag seher,3,121,16,18,384000
+xetai,kohne gunesli,3,77,3,9,200000
+xetai,ehmedli,4,145,7,10,328500
+xetai,kohne gunesli,2,58,4,5,129000
+xetai,ehmedli,3,136,10,11,371000
+xetai,ag seher,3,126,8,8,718000
+xetai,ag seher,3,125,10,18,536000
+xetai,ag seher,3,88,18,20,497000
+xetai,ag seher,4,153,10,16,581000
+xetai,ehmedli,3,94,16,17,186000
+xetai,kohne gunesli,3,70,6,9,142500
+xetai,ehmedli,3,109,7,15,202000
+xetai,ehmedli,4,153,5,16,283500
+xetai,ag seher,2,59,13,16,302000
+xetai,kohne gunesli,2,65,1,7,129000
+xetai,ag seher,2,69,11,16,373000
+xetai,kohne gunesli,3,78,4,9,192000
+xetai,ag seher,5,216,2,7,1050000
+xetai,ag seher,4,138,7,18,619000
+xetai,kohne gunesli,4,110,3,5,248000
+xetai,ehmedli,3,125,12,16,260000
+xetai,ag seher,3,119,16,17,747000
+xetai,kohne gunesli,3,79,4,9,197000
+xetai,ehmedli,3,133,12,17,246000
+xetai,kohne gunesli,3,79,7,16,174000
+xetai,ehmedli,3,99,15,16,264000
+xetai,ehmedli,4,143,13,16,348000
+xetai,kohne gunesli,2,53,2,5,133000
+xetai,ag seher,4,147,1,18,652000
+xetai,kohne gunesli,3,89,3,7,193500
+xetai,ehmedli,2,75,2,10,143000
+xetai,ag seher,4,141,11,17,564500
+xetai,ehmedli,2,77,3,15,230000
+xetai,ag seher,5,178,3,20,1050000
+xetai,kohne gunesli,2,55,7,7,116000
+xetai,ag seher,3,131,11,17,583000
+xetai,ag seher,2,61,18,18,329000
+xetai,ehmedli,3,117,10,16,206000
+xetai,ehmedli,2,76,3,9,178000
+xetai,ag seher,3,101,2,17,552000
+xetai,ehmedli,2,72,5,10,198000
+xetai,ag seher,4,141,4,11,568000
+xetai,ehmedli,3,112,5,11,196000
+xetai,ag seher,4,149,7,18,712000
+xetai,ehmedli,3,139,8,9,325000
+xetai,kohne gunesli,2,64,8,9,118000
+xetai,ag seher,2,57,6,11,230000
+xetai,ag seher,3,128,4,8,732000
+xetai,kohne gunesli,3,74,1,12,153000
+xetai,kohne gunesli,4,116,5,5,266000
+xetai,ehmedli,3,123,1,10,301000
+xetai,ehmedli,3,120,7,10,329000
+xetai,ag seher,4,141,1,7,499000
+xetai,ag seher,4,151,4,7,702000
+xetai,ehmedli,2,74,4,9,160000
+xetai,ag seher,3,121,2,9,517000
+xetai,ag seher,5,182,10,16,768000
+xetai,ehmedli,3,89,5,11,187000
+xetai,ag seher,4,171,16,17,813500
+xetai,ehmedli,3,127,4,14,287000
+xetai,ehmedli,4,146,1,9,373000
+xetai,ehmedli,3,101,17,17,256000
+xetai,kohne gunesli,3,79,6,7,207000
+xetai,ag seher,5,204,4,6,1050000
+xetai,ag seher,3,123,18,18,722000
+xetai,kohne gunesli,3,70,2,16,154000
+xetai,kohne gunesli,3,94,10,12,232000
+xetai,ag seher,3,134,13,20,795000
+xetai,ag seher,2,63,5,17,285000
+xetai,ag seher,4,166,7,20,642000
+xetai,ehmedli,3,133,8,11,317000
+xetai,ehmedli,4,141,1,9,319000
+xetai,ag seher,3,132,4,8,591000
+xetai,ehmedli,4,149,7,17,350000
+xetai,ehmedli,3,98,13,17,249000
+xetai,ag seher,3,121,6,9,470000
+xetai,ag seher,2,55,8,17,306000
+xetai,kohne gunesli,3,87,5,9,210000
+xetai,ehmedli,3,77,9,10,180000
+xetai,ehmedli,3,78,6,16,219000
+xetai,ag seher,4,158,14,19,1050000
+xetai,kohne gunesli,3,80,3,16,163000
+xetai,ehmedli,2,68,7,11,145000
+xetai,ag seher,4,161,5,18,786000
+xetai,kohne gunesli,4,114,1,5,222000
+xetai,ag seher,4,180,2,9,985000
+xetai,ag seher,3,112,2,16,480000
+xetai,kohne gunesli,2,57,9,9,122000
+xetai,ag seher,3,119,3,7,619000
+xetai,ehmedli,3,114,11,14,284500
+xetai,ag seher,4,155,6,16,472000
+xetai,kohne gunesli,3,81,2,16,188000
+xetai,ehmedli,3,106,8,10,262000
+xetai,kohne gunesli,3,66,4,5,139000
+xetai,ehmedli,3,87,11,14,138000
+xetai,ag seher,3,111,14,17,418000
+xetai,kohne gunesli,4,119,4,9,266000
+xetai,ag seher,5,200,7,16,1050000
+xetai,ehmedli,2,62,13,16,157000
+xetai,ehmedli,3,92,12,17,194000
+xetai,ehmedli,3,95,7,10,183000
+xetai,ag seher,4,147,4,18,537000
+xetai,ag seher,3,116,20,20,477000
+xetai,kohne gunesli,2,60,8,9,120000
+xetai,kohne gunesli,2,61,8,12,107000
+xetai,ehmedli,2,63,1,16,167000
+xetai,ehmedli,3,108,9,14,328000
+xetai,ehmedli,4,172,11,15,376000
+xetai,ehmedli,3,121,4,11,367000
+xetai,ag seher,2,56,2,9,238000
+xetai,ag seher,3,150,7,17,764000
+xetai,ag seher,3,105,15,18,462000
+xetai,ehmedli,3,79,6,11,184000
+xetai,kohne gunesli,2,63,4,9,135000
+xetai,kohne gunesli,3,74,6,16,173000
+xetai,ag seher,4,157,6,7,850000
+xetai,ag seher,4,157,14,18,735500
+xetai,ehmedli,3,143,6,11,417000
+xetai,kohne gunesli,3,68,1,12,149000
+xetai,kohne gunesli,3,70,9,9,159000
+xetai,ehmedli,3,122,2,16,294000
+xetai,ehmedli,3,100,2,16,212000
+xetai,ag seher,3,118,11,11,590000
+xetai,ehmedli,2,58,4,17,125000
+xetai,ag seher,3,132,8,8,503000
+xetai,kohne gunesli,3,75,15,16,118000
+xetai,ag seher,2,57,9,19,293000
+xetai,kohne gunesli,3,82,2,16,169000
+xetai,ag seher,4,145,6,7,691000
+xetai,ehmedli,3,75,16,17,186000
+xetai,ag seher,4,163,4,9,876000
+xetai,ag seher,3,132,4,9,624000
+xetai,ehmedli,4,164,2,11,430000
+xetai,ag seher,2,62,13,19,283000
+xetai,ehmedli,3,70,12,14,166000
+xetai,ag seher,4,160,15,17,655000
+xetai,ag seher,4,168,2,16,652500
+xetai,ehmedli,2,72,6,15,191000
+xetai,ehmedli,2,81,2,14,168000
+xetai,ag seher,3,138,5,20,747000
+xetai,ehmedli,3,101,5,9,202000
+xetai,ehmedli,3,100,2,14,270000
+xetai,kohne gunesli,3,77,3,7,193000
+xetai,kohne gunesli,4,107,1,9,271000
+xetai,kohne gunesli,3,70,3,5,169000
+xetai,ag seher,4,153,7,8,1021000
+xetai,ag seher,4,132,12,20,798000
+xetai,ag seher,2,64,6,17,303000
+xetai,kohne gunesli,3,74,5,16,186000
+xetai,kohne gunesli,3,79,15,16,138000
+xetai,ehmedli,2,71,9,15,169000
+xetai,ag seher,3,121,16,17,451000
+xetai,ehmedli,3,80,7,11,175000
+xetai,ag seher,4,169,19,20,728000
+xetai,kohne gunesli,2,64,5,5,140000
+xetai,kohne gunesli,3,94,4,16,214000
+xetai,ag seher,3,142,11,18,672000
+xetai,ehmedli,3,102,4,11,229000
+xetai,kohne gunesli,3,76,4,7,175000
+xetai,ehmedli,4,164,5,11,403000
+xetai,ehmedli,3,84,9,16,196000
+xetai,ehmedli,3,83,1,14,189000
+xetai,ehmedli,2,69,1,14,148000
+xetai,kohne gunesli,3,80,1,7,147000
+xetai,ag seher,3,123,15,16,638000
+xetai,kohne gunesli,2,52,2,9,115000
+xetai,ehmedli,3,110,10,11,301000
+xetai,ehmedli,3,116,7,9,362000
+xetai,ehmedli,4,166,8,11,430000
+xetai,ehmedli,3,141,8,15,392000
+xetai,ehmedli,3,120,6,11,308000
+xetai,ehmedli,3,128,7,9,342000
+xetai,kohne gunesli,3,63,7,12,130000
+xetai,ehmedli,2,85,13,15,141500
+xetai,ag seher,2,67,1,11,239000
+xetai,ag seher,3,127,2,6,627000
+xetai,ehmedli,4,169,5,17,359000
+xetai,ehmedli,3,92,7,11,220000
+xetai,kohne gunesli,2,65,2,5,151000
+xetai,ehmedli,3,119,2,16,269000
+xetai,ehmedli,3,123,1,9,194000
+xetai,ehmedli,2,76,4,15,217000
+xetai,ag seher,4,128,5,20,501000
+xetai,ehmedli,3,86,1,10,177000
+xetai,ehmedli,4,159,10,10,333000
+xetai,ag seher,4,152,6,9,778000
+xetai,ag seher,3,127,19,20,600000
+xetai,ehmedli,3,88,16,17,177500
+xetai,ehmedli,3,82,4,14,171000
+xetai,ag seher,4,144,14,17,825000
+xetai,ag seher,4,160,11,16,614000
+xetai,kohne gunesli,3,68,1,5,123000
+xetai,ehmedli,3,76,5,16,138000
+xetai,ehmedli,3,109,11,11,216000
+xetai,kohne gunesli,3,74,1,16,181000
+xetai,kohne gunesli,2,58,2,5,118500
+xetai,ehmedli,2,63,11,14,139000
+xetai,ehmedli,3,122,12,17,329000
+xetai,ehmedli,3,117,5,11,284000
+xetai,ehmedli,4,144,15,15,406000
+xetai,ehmedli,2,72,5,17,157000
+xetai,ehmedli,2,61,8,11,142000
+xetai,kohne gunesli,2,61,6,9,136000
+xetai,kohne gunesli,3,67,14,16,122000
+xetai,ehmedli,2,71,5,10,132000
+xetai,ag seher,4,163,17,19,626000
+xetai,kohne gunesli,3,77,4,5,156000
+xetai,ag seher,4,181,6,7,1020000
+xetai,ehmedli,3,114,9,10,333000
+xetai,ehmedli,3,122,1,10,297000
+xetai,ag seher,3,143,3,7,627000
+xetai,ag seher,3,120,10,11,525500
+xetai,ehmedli,3,126,12,14,322000
+xetai,kohne gunesli,3,77,8,16,172000
+xetai,ehmedli,3,96,3,17,257500
+xetai,ehmedli,3,78,1,15,176000
+xetai,ehmedli,3,95,13,16,238000
+xetai,kohne gunesli,3,70,1,12,151000
+xetai,kohne gunesli,2,71,6,9,117000
+xetai,ag seher,2,61,6,17,230000
+xetai,ag seher,4,176,2,18,1000000
+xetai,kohne gunesli,3,76,3,5,206000
+xetai,kohne gunesli,3,67,4,16,157000
+xetai,kohne gunesli,3,73,1,9,155500
+xetai,ag seher,4,163,5,19,983000
+xetai,kohne gunesli,2,53,3,5,105000
+xetai,kohne gunesli,2,70,6,9,130000
+xetai,ag seher,3,100,12,18,587000
+xetai,ag seher,3,131,6,7,509000
+xetai,ag seher,4,158,3,7,961000
+xetai,kohne gunesli,4,104,5,5,195500
+xetai,ehmedli,4,147,10,15,354000
+xetai,kohne gunesli,3,71,1,5,176000
+xetai,ag seher,3,107,2,7,609000
+xetai,ag seher,3,110,1,7,372000
+xetai,kohne gunesli,2,54,7,7,105000
+xetai,kohne gunesli,4,117,7,9,275000
+xetai,ehmedli,3,82,4,16,220000
+xetai,kohne gunesli,3,81,8,16,183000
+xetai,ehmedli,3,110,5,15,255000
+xetai,ehmedli,2,78,5,10,158000
+xetai,kohne gunesli,3,89,11,16,187000
+xetai,ehmedli,3,88,15,16,230000
+xetai,ehmedli,3,102,1,15,196000
+xetai,ehmedli,3,76,3,10,197000
+xetai,ehmedli,3,90,12,15,231000
+xetai,ag seher,3,133,1,7,504000
+xetai,kohne gunesli,3,73,6,16,122000
+xezer,buzovna,1,48,1,3,75000
+xezer,buzovna,5,115,4,5,143000
+xezer,bine,2,64,1,2,101500
+xezer,bine,3,77,1,2,113500
+xezer,bine,2,75,1,4,81500
+xezer,bine,4,123,1,4,185500
+xezer,buzovna,5,134,3,3,225500
+xezer,buzovna,4,131,3,3,160000
+xezer,buzovna,4,100,1,3,150000
+xezer,buzovna,4,105,3,4,176500
+xezer,bine,4,126,1,2,162000
+xezer,bine,3,95,3,3,95000
+xezer,bine,1,45,3,5,39000
+xezer,merdekan,3,110,2,4,230500
+xezer,bine,4,114,2,3,124500
+xezer,merdekan,3,112,4,5,219500
+xezer,bine,5,118,1,5,158500
+xezer,merdekan,2,55,4,5,81000
+xezer,bine,3,89,1,4,108500
+xezer,buzovna,3,92,3,5,123500
+xezer,buzovna,3,91,2,5,129000
+xezer,merdekan,2,85,5,5,107000
+xezer,bine,2,75,2,2,73000
+xezer,bine,3,79,1,3,74500
+xezer,bine,3,64,1,3,98000
+xezer,merdekan,2,78,4,5,125500
+xezer,merdekan,3,110,4,4,237500
+xezer,bine,4,113,1,2,114500
+xezer,bine,3,74,1,3,61000
+xezer,bine,4,140,1,4,178500
+xezer,bine,3,94,3,3,151000
+xezer,bine,3,86,1,3,98500
+xezer,bine,3,63,1,2,79000
+xezer,merdekan,2,57,3,3,79000
+xezer,buzovna,2,62,2,3,118500
+xezer,bine,3,94,1,2,135500
+xezer,bine,3,73,1,5,84500
+xezer,bine,3,89,4,4,133500
+xezer,bine,2,75,1,2,102000
+xezer,bine,3,92,1,3,152000
+xezer,bine,2,64,1,2,63500
+xezer,merdekan,3,102,1,5,178500
+xezer,bine,3,93,3,4,105500
+xezer,bine,3,79,3,5,105000
+xezer,bine,3,66,1,2,81500
+xezer,bine,2,47,2,3,44500
+xezer,buzovna,3,94,5,5,143000
+xezer,merdekan,2,87,1,3,113500
+xezer,merdekan,4,104,3,4,200500
+xezer,merdekan,2,85,4,4,161000
+xezer,merdekan,2,85,3,4,86500
+xezer,bine,2,53,3,3,72000
+xezer,buzovna,2,85,2,5,112500
+xezer,merdekan,3,74,2,4,94500
+xezer,bine,4,140,2,2,156000
+xezer,buzovna,3,110,2,4,192500
+xezer,merdekan,5,142,1,4,250000
+xezer,merdekan,4,121,2,5,187000
+xezer,merdekan,2,47,2,4,95500
+xezer,merdekan,2,59,1,3,98500
+xezer,bine,2,47,3,4,76500
+xezer,bine,5,144,1,4,159000
+xezer,bine,5,126,1,2,184500
+xezer,bine,4,112,2,2,162500
+xezer,bine,4,85,2,3,94500
+xezer,merdekan,5,160,1,5,300000
+xezer,bine,2,58,4,4,76500
+xezer,buzovna,2,76,2,4,136000
+xezer,bine,3,60,3,4,77000
+xezer,merdekan,3,85,4,4,167500
+xezer,bine,3,70,2,2,91500
+xezer,bine,5,125,2,4,186000
+xezer,bine,1,50,2,2,50500
+xezer,merdekan,3,90,1,3,197500
+xezer,bine,4,134,2,2,145000
+xezer,merdekan,3,94,3,3,176000
+xezer,bine,2,59,4,4,89000
+xezer,buzovna,5,138,3,3,260000
+xezer,buzovna,4,135,4,4,219500
+xezer,bine,2,54,2,3,64500
+xezer,merdekan,2,54,2,3,90000
+xezer,merdekan,2,71,4,4,96000
+xezer,bine,3,61,4,5,66000
+xezer,bine,3,86,2,3,96000
+xezer,buzovna,1,50,4,5,75000
+xezer,merdekan,4,134,1,5,251500
+xezer,buzovna,1,60,2,4,108000
+xezer,bine,2,55,2,3,66500
+xezer,merdekan,3,113,3,4,165000
+xezer,bine,3,82,3,3,68000
+xezer,merdekan,5,145,3,3,218000
+xezer,bine,3,73,3,5,109000
+xezer,bine,3,67,2,3,54500
+xezer,merdekan,3,89,2,4,137500
+xezer,buzovna,3,81,3,5,160500
+xezer,merdekan,4,131,2,3,260500
+xezer,buzovna,2,75,1,4,131000
+xezer,merdekan,2,68,4,5,119500
+xezer,buzovna,4,136,4,4,222000
+xezer,merdekan,3,85,1,3,166500
+xezer,buzovna,4,131,4,5,182000
+xezer,buzovna,2,70,2,3,112500
+xezer,bine,4,129,1,4,161500
+xezer,bine,4,116,3,3,161500
+xezer,buzovna,1,49,2,3,75000
+xezer,bine,3,90,4,4,127000
+xezer,bine,3,79,2,4,78500
+xezer,bine,4,133,1,3,164000
+xezer,bine,3,93,1,4,126500
+xezer,bine,3,79,1,2,73500
+xezer,merdekan,3,109,3,3,234500
+xezer,bine,1,44,4,5,55000
+xezer,bine,1,50,1,2,69500
+xezer,bine,3,63,1,3,90500
+xezer,bine,2,62,5,5,74000
+xezer,merdekan,3,93,4,4,161500
+xezer,buzovna,3,81,3,3,108500
+xezer,buzovna,2,60,1,5,75000
+xezer,bine,3,90,1,4,100000
+xezer,merdekan,4,124,3,3,190500
+xezer,merdekan,3,107,2,3,165000
+xezer,bine,2,53,1,3,44500
+xezer,merdekan,3,101,4,4,149000
+xezer,buzovna,4,112,5,5,186000
+xezer,bine,1,48,3,4,35000
+xezer,bine,3,61,1,4,77500
+xezer,buzovna,4,112,3,3,195000
+xezer,merdekan,5,180,4,4,300000
+xezer,buzovna,4,116,4,4,194000
+xezer,merdekan,4,130,2,3,187000
+xezer,bine,2,69,5,5,76500
+xezer,buzovna,3,101,1,3,159500
+xezer,buzovna,3,103,1,3,161000
+xezer,bine,2,73,1,5,67500
+xezer,merdekan,2,45,4,5,75000
+xezer,merdekan,4,124,3,3,195000
+xezer,merdekan,2,90,4,4,161500
+xezer,bine,3,84,3,3,95500
+xezer,merdekan,2,71,3,4,82500
+xezer,merdekan,4,132,4,5,207500
+xezer,buzovna,3,110,4,5,170500
+xezer,merdekan,5,150,4,5,285000
+xezer,merdekan,2,75,4,5,142500
+xezer,merdekan,3,74,1,4,112000
+xezer,merdekan,2,51,1,4,123000
+xezer,buzovna,4,121,2,5,178000
+xezer,merdekan,2,84,4,5,143000
+xezer,merdekan,4,149,4,5,274000
+xezer,merdekan,4,150,1,5,283000
+xezer,bine,3,78,3,3,90500
+xezer,merdekan,4,140,2,3,239000
+xezer,bine,1,45,2,2,55500
+xezer,buzovna,2,68,2,5,82000
+xezer,bine,4,124,2,3,182000
+xezer,bine,3,89,1,4,141500
+xezer,merdekan,3,75,2,3,138500
+xezer,bine,5,154,4,4,220000
+xezer,bine,3,90,1,2,111500
+xezer,buzovna,5,128,3,3,200500
+xezer,bine,4,134,2,2,197000
+xezer,merdekan,2,67,3,3,110500
+xezer,bine,4,134,3,3,127000
+xezer,bine,3,83,1,3,122500
+xezer,bine,3,72,3,3,109500
+xezer,buzovna,5,163,2,3,260000
+xezer,merdekan,2,66,2,3,75000
+xezer,merdekan,2,88,4,5,161000
+xezer,bine,3,76,2,2,88000
+xezer,buzovna,4,118,3,3,181000
+xezer,bine,4,120,2,4,153000
+xezer,buzovna,3,94,4,5,116500
+xezer,bine,1,50,1,2,68500
+xezer,bine,3,94,5,5,121000
+xezer,merdekan,3,96,4,5,132000
+xezer,buzovna,2,69,2,3,93000
+xezer,buzovna,5,132,2,3,196500
+xezer,merdekan,5,178,3,3,300000
+xezer,buzovna,5,113,2,4,181500
+xezer,bine,4,120,3,3,132500
+xezer,bine,2,73,2,2,92500
+xezer,merdekan,3,76,3,3,82500
+xezer,bine,4,100,1,4,110000
+xezer,bine,4,118,1,2,161500
+xezer,merdekan,3,71,2,4,116500
+xezer,merdekan,4,137,3,5,275500
+xezer,merdekan,2,75,4,4,126500
+xezer,buzovna,5,114,2,3,187500
+xezer,bine,2,65,4,4,98000
+xezer,bine,3,87,1,2,120500
+xezer,buzovna,5,136,4,4,222500
+xezer,merdekan,2,65,3,5,91000
+xezer,buzovna,3,80,1,3,105500
+xezer,merdekan,3,73,1,5,149500
+xezer,buzovna,4,121,4,4,199500
+xezer,merdekan,3,87,3,3,147000
+xezer,bine,3,66,3,4,70000
+xezer,buzovna,4,130,5,5,241000
+xezer,buzovna,3,92,1,3,130000
+xezer,merdekan,2,56,3,3,106000
+xezer,bine,4,86,1,2,114000
+xezer,buzovna,2,64,3,5,122000
+xezer,buzovna,5,119,3,3,150000
+xezer,bine,3,91,4,5,100000
+xezer,merdekan,2,72,2,3,160000
+xezer,buzovna,3,94,1,3,158000
+xezer,bine,2,75,1,3,99000
+xezer,bine,2,60,2,5,69000
+xezer,buzovna,2,72,3,5,98000
+xezer,merdekan,2,46,1,4,82000
+xezer,buzovna,3,101,1,4,131000
+xezer,merdekan,2,84,3,4,117000
+xezer,merdekan,2,82,1,4,166000
+xezer,bine,2,55,1,3,55500
+xezer,buzovna,2,79,3,4,150500
+xezer,merdekan,2,54,2,4,90500
+xezer,bine,4,89,3,3,126500
+xezer,merdekan,4,123,5,5,268000
+xezer,merdekan,2,85,2,4,125500
+xezer,buzovna,4,145,1,4,232000
+xezer,bine,3,62,2,2,88500
+xezer,bine,4,139,2,2,160000
+xezer,buzovna,4,136,2,3,239500
+xezer,buzovna,5,138,2,3,233500
+xezer,buzovna,2,62,4,5,105000
+xezer,buzovna,2,66,4,4,96000
+xezer,buzovna,2,75,3,5,97500
+xezer,bine,3,78,2,4,79000
+xezer,buzovna,2,66,4,4,103500
+xezer,merdekan,2,80,3,4,130000
+xezer,merdekan,5,187,3,3,300000
+xezer,buzovna,1,49,1,3,77000
+xezer,bine,5,119,2,2,169500
+xezer,buzovna,3,108,3,3,176500
+xezer,bine,3,70,3,3,89500
+xezer,merdekan,2,68,2,5,131000
+xezer,bine,4,113,3,3,131000
+xezer,merdekan,4,148,2,3,300000
+xezer,merdekan,3,83,4,4,149000
+xezer,bine,3,76,2,2,115500
+xezer,buzovna,2,82,1,5,97500
+xezer,merdekan,2,77,2,3,138500
+xezer,bine,3,82,2,2,90500
+xezer,buzovna,2,57,2,4,75000
+xezer,merdekan,4,136,2,4,185000
+xezer,bine,4,129,3,3,175000
+xezer,buzovna,5,111,2,4,196500
+xezer,buzovna,4,128,1,4,221500
+xezer,bine,2,52,5,5,47500
+xezer,bine,4,123,1,2,164000
+xezer,bine,1,46,3,3,45500
+qaradag,lokbatan,2,68,8,8,122500
+qaradag,lokbatan,2,66,8,9,71000
+qaradag,lokbatan,3,66,12,16,131000
+qaradag,musfiqabad,5,106,1,9,137000
+qaradag,musfiqabad,4,80,6,6,117500
+qaradag,sahil,4,94,1,3,151000
+qaradag,musfiqabad,4,90,2,7,128500
+qaradag,lokbatan,3,70,3,9,120000
+qaradag,lokbatan,3,96,6,10,146000
+qaradag,lokbatan,1,43,14,15,65000
+qaradag,lokbatan,1,54,3,18,69000
+qaradag,sahil,3,95,7,7,169500
+qaradag,lokbatan,2,65,1,4,84000
+qaradag,musfiqabad,3,63,4,8,65000
+qaradag,lokbatan,1,39,3,9,65000
+qaradag,musfiqabad,3,83,6,7,125000
+qaradag,lokbatan,5,113,5,7,184500
+qaradag,lokbatan,2,74,1,5,143500
+qaradag,lokbatan,2,56,8,12,79000
+qaradag,lokbatan,2,62,8,8,99000
+qaradag,musfiqabad,3,75,1,5,87500
+qaradag,musfiqabad,3,81,1,7,129000
+qaradag,lokbatan,3,89,15,17,132000
+qaradag,lokbatan,3,72,3,4,106500
+qaradag,musfiqabad,4,95,1,3,128500
+qaradag,lokbatan,3,88,1,3,157500
+qaradag,musfiqabad,2,65,8,9,97500
+qaradag,musfiqabad,2,68,1,4,82500
+qaradag,sahil,3,94,4,9,146500
+qaradag,lokbatan,3,96,3,9,150000
+qaradag,musfiqabad,2,51,3,4,81500
+qaradag,lokbatan,2,70,12,15,92500
+qaradag,musfiqabad,4,87,1,8,92500
+qaradag,lokbatan,1,40,3,10,65000
+qaradag,sahil,3,73,10,14,139500
+qaradag,lokbatan,2,54,6,15,89000
+qaradag,sahil,3,75,5,7,94000
+qaradag,lokbatan,3,92,6,17,107500
+qaradag,musfiqabad,5,96,2,9,107000
+qaradag,lokbatan,2,74,10,11,118000
+qaradag,lokbatan,2,78,10,13,139500
+qaradag,lokbatan,5,137,2,13,197500
+qaradag,sahil,4,89,1,14,142500
+qaradag,sahil,4,119,5,12,180000
+qaradag,lokbatan,2,76,2,4,129500
+qaradag,musfiqabad,5,110,7,8,160000
+qaradag,sahil,1,45,5,7,87500
+qaradag,lokbatan,3,97,10,12,158000
+qaradag,lokbatan,1,47,6,6,81000
+qaradag,lokbatan,3,93,2,6,151000
+qaradag,lokbatan,2,56,9,14,105500
+qaradag,sahil,2,61,6,13,99500
+qaradag,lokbatan,3,67,12,16,117500
+qaradag,lokbatan,3,95,6,14,158500
+qaradag,lokbatan,3,75,3,8,115500
+qaradag,musfiqabad,5,124,5,6,159000
+qaradag,lokbatan,1,30,6,8,65000
+qaradag,lokbatan,2,58,2,6,107500
+qaradag,sahil,2,65,11,14,124500
+qaradag,musfiqabad,4,97,1,7,148500
+qaradag,lokbatan,2,62,3,8,114000
+qaradag,sahil,2,65,4,4,102500
+qaradag,lokbatan,3,90,11,17,156500
+qaradag,sahil,2,70,3,4,83500
+qaradag,lokbatan,4,115,11,18,230000
+qaradag,musfiqabad,4,77,4,8,125500
+qaradag,musfiqabad,3,65,9,9,74000
+qaradag,lokbatan,2,69,4,5,124500
+qaradag,sahil,4,82,1,7,136000
+qaradag,sahil,3,61,12,13,70000
+qaradag,lokbatan,2,53,1,8,79500
+qaradag,musfiqabad,3,71,5,5,72000
+qaradag,sahil,2,69,5,6,103500
+qaradag,lokbatan,3,72,17,18,96500
+qaradag,sahil,2,51,4,9,70000
+qaradag,sahil,3,89,3,5,144000
+qaradag,lokbatan,4,114,1,3,168500
+qaradag,musfiqabad,3,85,4,8,91000
+qaradag,musfiqabad,3,80,8,9,96000
+qaradag,lokbatan,1,31,11,11,65000
+qaradag,sahil,3,71,2,4,109500
+qaradag,sahil,1,48,2,3,80000
+qaradag,musfiqabad,3,77,1,8,118000
+qaradag,sahil,2,75,3,11,87000
+qaradag,sahil,4,90,3,13,146000
+qaradag,musfiqabad,2,64,5,5,77000
+qaradag,lokbatan,3,69,12,16,102000
+qaradag,musfiqabad,1,47,3,3,60000
+qaradag,musfiqabad,2,67,1,5,90000
+qaradag,lokbatan,1,37,2,5,65000
+qaradag,sahil,3,93,8,10,142000
+qaradag,lokbatan,4,87,9,14,126000
+qaradag,lokbatan,2,59,1,3,65000
+qaradag,musfiqabad,2,57,4,7,89500
+qaradag,lokbatan,3,78,1,9,129500
+qaradag,lokbatan,3,87,16,17,155000
+qaradag,lokbatan,3,74,5,15,143500
+qaradag,sahil,4,118,6,8,172500
+qaradag,musfiqabad,3,77,3,3,106500
+qaradag,sahil,3,81,1,9,118500
+qaradag,lokbatan,3,72,2,3,133000
+qaradag,lokbatan,4,99,7,8,150000
+qaradag,lokbatan,1,55,14,14,92500
+qaradag,musfiqabad,2,61,2,4,86500
+qaradag,musfiqabad,2,49,4,7,60000
+qaradag,lokbatan,2,59,1,7,101000
+qaradag,lokbatan,2,58,11,18,110500
+qaradag,sahil,3,76,1,3,125500
+qaradag,musfiqabad,4,92,4,5,110000
+qaradag,sahil,2,68,5,7,118000
+qaradag,lokbatan,2,76,2,3,105000
+qaradag,musfiqabad,2,65,1,3,90000
+qaradag,musfiqabad,3,67,4,7,95500
+qaradag,lokbatan,3,81,14,15,128000
+qaradag,sahil,3,92,2,3,149000
+qaradag,sahil,3,76,4,5,95500
+qaradag,lokbatan,2,71,7,12,123500
+qaradag,lokbatan,2,52,8,16,84000
+qaradag,sahil,2,46,5,6,73000
+qaradag,musfiqabad,1,44,1,5,60000
+qaradag,sahil,2,74,3,7,146000
+qaradag,sahil,4,94,5,5,169500
+qaradag,sahil,2,73,3,11,106500
+qaradag,lokbatan,3,88,1,9,122000
+qaradag,lokbatan,2,55,9,13,71000
+qaradag,musfiqabad,4,101,1,8,131500
+qaradag,lokbatan,2,57,3,16,110000
+qaradag,musfiqabad,3,76,4,6,107500
+qaradag,lokbatan,1,55,3,5,68000
+qaradag,sahil,2,60,14,14,97500
+qaradag,sahil,3,73,4,9,97500
+qaradag,sahil,2,65,11,14,96000
+qaradag,lokbatan,3,71,2,4,121500
+qaradag,sahil,3,64,2,14,79000
+qaradag,musfiqabad,3,66,1,6,86500
+qaradag,lokbatan,2,54,2,6,72000
+qaradag,lokbatan,4,95,1,16,160500
+qaradag,lokbatan,1,36,6,15,65000
+qaradag,lokbatan,1,49,3,3,103500
+qaradag,sahil,3,82,2,9,171500
+qaradag,lokbatan,5,138,1,9,211500
+qaradag,sahil,4,120,1,10,169000
+qaradag,musfiqabad,5,110,2,4,160000
+qaradag,lokbatan,5,115,7,8,167500
+qaradag,sahil,3,75,3,8,95000
+qaradag,musfiqabad,4,80,3,6,125500
+qaradag,musfiqabad,4,114,1,8,132000
+qaradag,sahil,3,60,13,13,90500
+qaradag,lokbatan,2,50,6,8,94000
+qaradag,musfiqabad,3,64,3,6,80000
+nerimanov,boyuksor,2,91,7,14,353000
+nerimanov,boyuksor,3,143,8,16,523500
+nerimanov,boyuksor,4,167,7,15,641500
+nerimanov,boyuksor,2,108,13,16,432000
+nerimanov,boyuksor,3,168,6,18,698500
+nerimanov,boyuksor,3,156,15,15,631500
+nerimanov,boyuksor,2,83,14,18,240000
+nerimanov,boyuksor,4,195,10,18,649500
+nerimanov,boyuksor,4,217,11,19,770000
+nerimanov,boyuksor,5,195,15,17,584000
+nerimanov,boyuksor,2,112,7,16,403000
+nerimanov,boyuksor,2,86,2,18,295000
+nerimanov,boyuksor,4,209,1,14,626500
+nerimanov,boyuksor,4,204,7,16,642500
+nerimanov,boyuksor,4,223,4,15,775500
+nerimanov,boyuksor,5,196,10,18,623500
+nerimanov,boyuksor,4,162,3,12,483500
+nerimanov,boyuksor,3,164,6,18,560000
+nerimanov,boyuksor,4,220,16,17,713000
+nerimanov,boyuksor,2,94,6,16,374500
+nerimanov,boyuksor,3,135,12,13,537000
+nerimanov,boyuksor,5,236,12,18,672000
+nerimanov,boyuksor,2,99,4,13,377500
+nerimanov,boyuksor,3,104,1,17,358500
+nerimanov,boyuksor,4,221,9,13,654500
+nerimanov,boyuksor,3,120,15,17,363000
+nerimanov,boyuksor,3,109,11,12,435000
+nerimanov,boyuksor,4,152,3,15,440000
+nerimanov,boyuksor,4,143,7,18,516000
+nerimanov,boyuksor,3,132,14,17,477000
+nerimanov,boyuksor,5,243,5,15,655000
+nerimanov,boyuksor,2,97,2,14,383000
+nerimanov,boyuksor,2,109,11,19,435000
+nerimanov,boyuksor,2,83,7,17,319500
+nerimanov,boyuksor,3,112,3,14,387000
+nerimanov,boyuksor,2,105,2,13,356500
+nerimanov,boyuksor,2,104,16,17,301500
+nerimanov,boyuksor,3,100,12,13,345500
+nerimanov,boyuksor,3,141,10,13,514000
+nerimanov,boyuksor,3,155,9,15,681500
+nerimanov,boyuksor,3,95,6,13,375500
+nerimanov,boyuksor,2,101,3,16,306500
+nerimanov,boyuksor,3,144,12,16,490000
+nerimanov,boyuksor,4,185,15,19,567500
+nerimanov,boyuksor,4,144,5,13,486000
+nerimanov,boyuksor,4,173,7,12,539500
+nerimanov,boyuksor,3,131,15,15,517000
+nerimanov,boyuksor,3,116,5,18,519500
+nerimanov,boyuksor,3,119,10,18,391500
+nerimanov,boyuksor,3,145,3,14,555000
+nerimanov,boyuksor,3,170,8,13,699500
+nerimanov,boyuksor,2,104,15,18,322000
+nerimanov,boyuksor,3,166,12,15,655500
+nerimanov,boyuksor,3,106,7,15,516000
+nerimanov,boyuksor,3,90,9,13,415000
+nerimanov,boyuksor,3,96,9,13,364000
+nerimanov,boyuksor,4,190,15,15,587000
+nerimanov,boyuksor,2,114,12,18,355000
+nerimanov,boyuksor,4,199,16,19,638500
+nerimanov,boyuksor,3,144,2,16,424500
+nerimanov,boyuksor,3,105,6,19,454000
+nerimanov,boyuksor,3,167,1,16,672500
+nerimanov,boyuksor,5,220,2,18,610000
+nerimanov,boyuksor,3,100,10,18,381500
+nerimanov,boyuksor,2,82,1,19,240000
+nerimanov,boyuksor,2,100,10,18,402000
+nerimanov,boyuksor,2,83,10,16,316500
+nerimanov,boyuksor,2,89,3,19,297500
+nerimanov,boyuksor,3,133,6,13,545000
+nerimanov,boyuksor,3,169,18,18,717500
+nerimanov,boyuksor,5,220,10,18,767500
+nerimanov,boyuksor,2,98,11,12,406000
+nerimanov,boyuksor,3,100,13,16,328000
+nerimanov,boyuksor,3,170,12,16,655500
+nerimanov,boyuksor,4,165,2,17,425500
+nerimanov,boyuksor,3,129,12,15,503000
+nerimanov,boyuksor,3,156,13,18,640500
+nerimanov,boyuksor,3,140,10,14,573500
+nerimanov,boyuksor,3,150,9,19,596000
+nerimanov,boyuksor,4,173,5,14,536000
+nerimanov,boyuksor,5,184,15,15,541000
+nerimanov,boyuksor,3,107,11,12,391000
+nerimanov,boyuksor,3,154,9,15,584000
+nerimanov,boyuksor,2,108,6,14,396000
+nerimanov,boyuksor,3,94,15,18,410500
+nerimanov,boyuksor,2,82,11,15,280500
+nerimanov,boyuksor,3,105,15,18,403500
+nerimanov,boyuksor,4,151,1,14,461000
+nerimanov,boyuksor,3,106,14,16,361500
+nerimanov,boyuksor,3,95,11,14,262500
+nerimanov,boyuksor,2,95,8,13,345000
+nerimanov,boyuksor,2,107,11,15,376500
+nerimanov,boyuksor,2,82,14,15,275500
+nerimanov,boyuksor,3,137,5,17,617000
+nerimanov,boyuksor,5,208,10,14,673500
+nerimanov,boyuksor,4,200,2,13,687000
+nerimanov,boyuksor,2,97,8,14,275500
+nerimanov,boyuksor,4,187,5,17,564000
+nerimanov,boyuksor,4,168,8,13,573000
+nerimanov,boyuksor,2,88,9,16,324000
+nerimanov,boyuksor,5,189,10,12,651000
+nerimanov,boyuksor,4,228,1,13,625500
+nerimanov,boyuksor,2,114,10,18,314500
+nerimanov,boyuksor,3,92,18,18,348000
+nerimanov,boyuksor,3,151,6,13,515000
+nerimanov,boyuksor,3,170,5,18,650500
+nerimanov,boyuksor,2,101,11,18,258500
+nerimanov,boyuksor,4,209,15,16,570000
+nerimanov,boyuksor,5,180,10,12,596500
+nerimanov,boyuksor,3,119,12,16,487000
+nerimanov,boyuksor,3,100,3,12,359500
+nerimanov,boyuksor,2,101,17,19,364000
+nerimanov,boyuksor,2,100,7,18,300000
+nerimanov,boyuksor,5,238,16,18,670500
+nerimanov,boyuksor,4,153,1,18,385000
+nerimanov,boyuksor,4,150,12,13,541000
+nerimanov,boyuksor,3,138,5,14,528500
+nerimanov,boyuksor,3,103,9,12,423500
+nerimanov,boyuksor,4,208,9,12,583000
+nerimanov,boyuksor,3,112,1,17,455000
+nerimanov,boyuksor,2,96,16,16,313000
+nerimanov,boyuksor,5,245,18,19,721000
+nerimanov,boyuksor,4,190,2,18,604000
+nerimanov,boyuksor,3,142,1,12,539000
+nerimanov,boyuksor,3,141,6,15,652000
+nerimanov,boyuksor,4,219,16,17,769000
+nerimanov,boyuksor,3,150,3,14,602500
+nerimanov,boyuksor,2,95,5,14,240000
+nerimanov,boyuksor,3,156,6,15,534000
+nerimanov,boyuksor,3,88,12,14,316500
+nerimanov,boyuksor,3,152,3,13,507000
+nerimanov,boyuksor,3,127,14,17,550000
+nerimanov,boyuksor,3,145,5,16,629000
+nerimanov,boyuksor,3,169,12,14,607000
+nerimanov,boyuksor,4,228,15,16,667500
+nerimanov,boyuksor,3,151,16,18,530000
+nerimanov,boyuksor,2,111,4,14,389000
+nerimanov,boyuksor,2,102,5,15,349000
+nerimanov,boyuksor,3,118,18,18,408500
+nerimanov,boyuksor,2,94,2,17,285000
+nerimanov,boyuksor,2,103,6,18,366000
+nerimanov,boyuksor,3,156,12,17,608000
+nerimanov,boyuksor,3,140,7,18,627500
+nerimanov,boyuksor,4,151,18,19,444500
+nerimanov,boyuksor,4,224,7,19,780000
+nerimanov,boyuksor,3,131,7,18,526000
+nerimanov,boyuksor,4,193,16,19,638500
+nerimanov,boyuksor,4,197,2,16,558000
+nerimanov,boyuksor,4,178,4,19,576000
+nerimanov,boyuksor,3,119,17,19,484000
+nesimi,1ci mikrorayon,3,115,3,9,360000
+nesimi,2ci mikrorayon,3,87,5,5,266500
+nesimi,4cu mikrorayon,4,101,2,5,281500
+nesimi,kubinka,3,100,17,17,378500
+nesimi,1ci mikrorayon,1,42,3,5,143500
+nesimi,1ci mikrorayon,2,72,9,16,245000
+nesimi,1ci mikrorayon,4,145,2,5,360000
+nesimi,5ci mikrorayon,2,45,2,5,153000
+nesimi,1ci mikrorayon,3,111,4,5,323000
+nesimi,5ci mikrorayon,2,57,5,5,170000
+nesimi,3cu mikrorayon,3,111,4,5,390000
+nesimi,4cu mikrorayon,3,84,2,9,212500
+nesimi,4cu mikrorayon,4,103,2,5,299500
+nesimi,4cu mikrorayon,2,50,3,16,118000
+nesimi,3cu mikrorayon,3,113,1,18,387000
+nesimi,kubinka,3,76,2,5,380000
+nesimi,4cu mikrorayon,3,96,3,5,265500
+nesimi,4cu mikrorayon,2,60,2,5,165500
+nesimi,4cu mikrorayon,2,60,4,5,144500
+nesimi,3cu mikrorayon,2,66,5,5,258500
+nesimi,2ci mikrorayon,2,49,12,16,153000
+nesimi,kubinka,3,102,1,5,348500
+nesimi,5ci mikrorayon,2,68,2,5,274000
+nesimi,3cu mikrorayon,3,96,14,17,339500
+nesimi,1ci mikrorayon,4,119,7,9,360000
+nesimi,kubinka,3,130,3,5,454500
+nesimi,kubinka,5,155,2,16,701500
+nesimi,5ci mikrorayon,4,117,3,9,410000
+nesimi,4cu mikrorayon,1,45,5,5,120000
+nesimi,kubinka,3,152,4,17,691000
+nesimi,kubinka,2,55,1,5,244500
+nesimi,1ci mikrorayon,3,132,2,5,360000
+nesimi,kubinka,3,98,6,17,497000
+nesimi,1ci mikrorayon,2,74,4,5,197000
+nesimi,3cu mikrorayon,2,49,4,5,110000
+nesimi,5ci mikrorayon,1,36,3,16,110000
+nesimi,1ci mikrorayon,4,142,1,5,360000
+nesimi,3cu mikrorayon,2,68,1,17,213000
+nesimi,2ci mikrorayon,3,83,2,9,194500
+nesimi,kubinka,3,91,6,16,276000
+nesimi,5ci mikrorayon,2,48,3,5,153000
+nesimi,3cu mikrorayon,2,46,2,16,161500
+nesimi,4cu mikrorayon,4,96,2,9,288500
+nesimi,kubinka,2,82,4,5,294000
+nesimi,kubinka,2,76,12,16,398000
+nesimi,kubinka,3,152,19,24,659500
+nesimi,1ci mikrorayon,4,141,2,5,360000
+nesimi,1ci mikrorayon,2,69,11,16,230500
+nesimi,5ci mikrorayon,4,139,2,17,371000
+nesimi,5ci mikrorayon,2,54,1,16,153500
+nesimi,4cu mikrorayon,2,71,7,16,146500
+nesimi,kubinka,3,132,11,16,575000
+nesimi,kubinka,2,79,15,17,325000
+nesimi,1ci mikrorayon,2,56,4,5,135500
+nesimi,kubinka,4,115,10,24,377000
+nesimi,kubinka,4,152,8,16,501500
+nesimi,1ci mikrorayon,2,52,12,16,146500
+nesimi,kubinka,3,96,5,5,433500
+nesimi,kubinka,3,120,11,24,530000
+nesimi,1ci mikrorayon,3,87,4,5,245000
+nesimi,4cu mikrorayon,3,66,3,16,197000
+nesimi,5ci mikrorayon,2,57,11,16,159000
+nesimi,2ci mikrorayon,2,58,14,19,192500
+nesimi,4cu mikrorayon,3,71,5,5,245500
+nesimi,kubinka,3,82,18,24,392000
+nesimi,4cu mikrorayon,3,96,12,17,246000
+nesimi,1ci mikrorayon,2,64,2,5,217500
+nesimi,3cu mikrorayon,2,65,3,5,226500
+nesimi,4cu mikrorayon,4,117,3,5,309500
+nesimi,2ci mikrorayon,2,47,2,5,169500
+nesimi,4cu mikrorayon,2,57,5,5,160000
+nesimi,3cu mikrorayon,2,68,8,9,218000
+nesimi,3cu mikrorayon,2,59,4,5,178000
+nesimi,4cu mikrorayon,4,86,4,5,230000
+nesimi,1ci mikrorayon,2,69,1,5,193000
+nesimi,5ci mikrorayon,3,137,9,9,389500
+nesimi,4cu mikrorayon,3,69,3,5,182500
+nesimi,1ci mikrorayon,2,50,3,9,157000
+nesimi,5ci mikrorayon,2,55,5,5,171500
+nesimi,3cu mikrorayon,1,30,16,16,115500
+nesimi,4cu mikrorayon,2,48,3,9,144000
+nesimi,1ci mikrorayon,3,137,2,5,360000
+nesimi,kubinka,2,57,15,16,183500
+nesimi,1ci mikrorayon,2,71,1,9,210500
+nesimi,kubinka,3,99,2,16,548500
+nesimi,2ci mikrorayon,2,54,1,5,132500
+nesimi,4cu mikrorayon,2,46,6,9,110000
+nesimi,1ci mikrorayon,2,67,8,9,204000
+nesimi,3cu mikrorayon,2,62,10,17,186500
+nesimi,kubinka,2,83,17,24,311000
+nesimi,kubinka,5,186,2,24,707000
+nesimi,kubinka,2,73,18,24,363500
+nesimi,2ci mikrorayon,2,49,1,5,142500
+nesimi,4cu mikrorayon,2,67,2,5,217500
+nesimi,3cu mikrorayon,3,131,3,5,377500
+nesimi,3cu mikrorayon,2,57,3,5,185500
+nesimi,kubinka,4,116,2,5,390500
+nesimi,1ci mikrorayon,3,97,3,5,268500
+nesimi,4cu mikrorayon,2,73,4,5,185000
+nesimi,1ci mikrorayon,2,50,3,5,158500
+nesimi,2ci mikrorayon,2,64,2,5,183500
+nesimi,5ci mikrorayon,3,95,1,5,341000
+nesimi,1ci mikrorayon,4,116,2,5,360000
+nesimi,5ci mikrorayon,2,46,11,16,147000
+nesimi,5ci mikrorayon,2,51,12,17,126500
+nesimi,3cu mikrorayon,2,44,8,16,141000
+nesimi,3cu mikrorayon,3,116,5,18,390000
+nesimi,3cu mikrorayon,1,32,2,5,110000
+nesimi,5ci mikrorayon,3,111,1,5,311000
+nesimi,1ci mikrorayon,1,41,5,5,105000
+nesimi,2ci mikrorayon,3,68,12,19,181000
+nesimi,kubinka,2,72,3,5,172000
+nesimi,5ci mikrorayon,1,32,11,18,110000
+nesimi,4cu mikrorayon,2,45,1,5,114500
+nesimi,kubinka,4,124,16,17,484500
+nesimi,2ci mikrorayon,2,75,8,9,184500
+nesimi,5ci mikrorayon,2,75,3,5,212500
+nesimi,5ci mikrorayon,2,57,4,17,153500
+nesimi,1ci mikrorayon,2,70,3,9,214500
+nesimi,kubinka,4,160,2,5,768000
+nesimi,kubinka,3,71,4,16,285500
+nesimi,2ci mikrorayon,3,69,5,5,183500
+nesimi,5ci mikrorayon,2,45,5,5,178500
+nesimi,5ci mikrorayon,2,52,5,5,130000
+nesimi,5ci mikrorayon,1,40,2,17,153500
+nesimi,4cu mikrorayon,4,108,4,5,340000
+nesimi,kubinka,3,90,7,17,379500
+nesimi,2ci mikrorayon,3,102,2,5,343000
+nesimi,2ci mikrorayon,3,81,1,9,245500
+nesimi,4cu mikrorayon,3,60,4,16,147000
+nesimi,1ci mikrorayon,4,123,4,5,360000
+nesimi,3cu mikrorayon,1,30,4,5,110000
+nesimi,5ci mikrorayon,2,48,2,5,174500
+nesimi,2ci mikrorayon,3,101,6,9,276500
+nesimi,kubinka,2,60,10,16,330000
+nesimi,3cu mikrorayon,4,139,3,5,390000
+nesimi,2ci mikrorayon,1,42,6,9,115000
+nesimi,1ci mikrorayon,2,65,8,16,214000
+nesimi,kubinka,3,89,12,16,476000
+nesimi,2ci mikrorayon,2,75,5,19,283000
+nesimi,4cu mikrorayon,1,31,4,5,110000
+nesimi,kubinka,3,109,11,17,402500
+nesimi,2ci mikrorayon,4,91,3,5,276000
+nesimi,kubinka,4,157,2,17,531000
+nesimi,4cu mikrorayon,4,109,1,5,340000
+nesimi,3cu mikrorayon,2,69,2,5,274000
+nesimi,kubinka,3,76,1,17,236500
+nesimi,5ci mikrorayon,1,42,4,5,118000
+nesimi,1ci mikrorayon,2,50,2,5,172000
+nesimi,2ci mikrorayon,2,74,16,16,215500
+nesimi,3cu mikrorayon,2,67,17,17,218000
+nesimi,1ci mikrorayon,3,135,2,5,335000
+nesimi,kubinka,2,62,15,17,201500
+nesimi,5ci mikrorayon,4,106,10,18,410000
+nesimi,4cu mikrorayon,3,98,2,5,340000
+nesimi,4cu mikrorayon,4,99,14,17,267500
+nesimi,4cu mikrorayon,1,35,7,9,110000
+nesimi,3cu mikrorayon,2,52,2,5,184500
+nesimi,kubinka,2,81,22,24,346000
+nesimi,2ci mikrorayon,3,83,2,5,285500
+nesimi,5ci mikrorayon,2,54,5,17,180000
+nesimi,3cu mikrorayon,2,62,2,5,166500
+nesimi,1ci mikrorayon,3,120,8,16,360000
+nesimi,1ci mikrorayon,2,50,2,5,137000
+nesimi,kubinka,3,160,8,9,692500
+nesimi,kubinka,3,127,6,24,564500
+nesimi,kubinka,3,142,5,17,567500
+nesimi,3cu mikrorayon,1,31,4,5,110000
+nesimi,2ci mikrorayon,2,54,4,16,145500
+nesimi,1ci mikrorayon,2,62,4,5,145000
+nesimi,4cu mikrorayon,2,55,5,5,113500
+nesimi,5ci mikrorayon,2,45,1,5,123000
+nesimi,3cu mikrorayon,3,112,3,5,307500
+nesimi,1ci mikrorayon,3,71,2,9,219000
+nesimi,kubinka,4,175,2,16,780000
+nesimi,kubinka,3,86,11,16,341000
+nesimi,1ci mikrorayon,1,33,14,16,105000
+nesimi,1ci mikrorayon,2,62,5,5,191500
+nesimi,4cu mikrorayon,2,75,1,5,218500
+nesimi,2ci mikrorayon,3,97,12,16,308000
+nesimi,5ci mikrorayon,3,88,14,18,313000
+nesimi,5ci mikrorayon,4,145,1,5,377000
+nesimi,1ci mikrorayon,2,49,3,5,163500
+nesimi,3cu mikrorayon,3,115,16,17,322000
+nesimi,3cu mikrorayon,2,63,15,17,202000
+nesimi,2ci mikrorayon,1,42,3,5,143500
+nesimi,kubinka,3,156,9,9,578500
+nesimi,4cu mikrorayon,2,51,2,5,164000
+nesimi,5ci mikrorayon,2,75,12,17,228000
+nesimi,5ci mikrorayon,3,133,4,17,372000
+nesimi,3cu mikrorayon,3,78,6,17,273000
+nesimi,4cu mikrorayon,3,98,2,9,303000
+nesimi,3cu mikrorayon,4,101,1,5,332500
+nesimi,2ci mikrorayon,2,67,1,5,158500
+nesimi,1ci mikrorayon,2,63,2,5,172500
+nesimi,kubinka,4,150,2,5,732000
+nesimi,1ci mikrorayon,2,60,4,18,139500
+nesimi,4cu mikrorayon,4,117,3,5,326000
+nesimi,3cu mikrorayon,3,96,1,5,207000
+nesimi,kubinka,4,118,13,24,435000
+nesimi,kubinka,3,79,24,24,303000
+nesimi,2ci mikrorayon,4,133,8,16,380000
+nesimi,kubinka,2,55,5,5,201000
+nesimi,4cu mikrorayon,2,55,1,5,171500
+nesimi,kubinka,5,190,6,18,780000
+nesimi,3cu mikrorayon,3,109,8,17,347000
+nesimi,kubinka,3,136,7,16,597500
+nesimi,3cu mikrorayon,2,53,3,5,139500
+nesimi,5ci mikrorayon,3,97,12,17,287000
+nesimi,2ci mikrorayon,2,67,3,5,138500
+nesimi,1ci mikrorayon,3,82,1,16,264500
+nesimi,4cu mikrorayon,3,97,4,5,313500
+nesimi,kubinka,4,147,3,18,589000
+nesimi,4cu mikrorayon,4,100,5,5,340000
+nesimi,3cu mikrorayon,2,63,1,5,216500
+nesimi,1ci mikrorayon,2,66,2,5,210500
+nesimi,kubinka,3,95,16,24,401000
+nesimi,kubinka,3,119,16,16,404500
+nesimi,2ci mikrorayon,3,95,17,17,283500
+nesimi,5ci mikrorayon,2,68,2,5,161500
+nesimi,4cu mikrorayon,2,53,5,5,127500
+nesimi,3cu mikrorayon,1,44,1,5,127500
+nesimi,4cu mikrorayon,4,112,3,5,286500
+nesimi,1ci mikrorayon,3,98,4,5,249500
+nesimi,5ci mikrorayon,4,107,3,5,361500
+nesimi,1ci mikrorayon,2,56,16,17,167000
+nesimi,1ci mikrorayon,4,142,4,5,360000
+nesimi,kubinka,4,143,24,24,492000
+nesimi,2ci mikrorayon,2,65,3,5,215500
+nesimi,3cu mikrorayon,3,130,1,5,373000
+nesimi,kubinka,3,95,7,18,419000
+nesimi,2ci mikrorayon,3,67,16,19,212500
+nesimi,2ci mikrorayon,3,65,9,16,236500
+nesimi,2ci mikrorayon,2,51,3,17,182000
+nesimi,kubinka,4,138,3,5,606000
+nesimi,kubinka,2,65,6,24,314000
+nesimi,5ci mikrorayon,2,72,4,17,251000
+nesimi,2ci mikrorayon,3,92,3,5,311000
+nesimi,3cu mikrorayon,4,148,10,16,390000
+nesimi,1ci mikrorayon,2,62,16,17,216500
+nesimi,kubinka,3,80,16,16,251000
+nesimi,4cu mikrorayon,3,97,3,9,302000
+nesimi,4cu mikrorayon,1,36,5,5,110000
+nesimi,kubinka,3,137,7,16,576000
+nesimi,5ci mikrorayon,3,119,4,5,410000
+nesimi,1ci mikrorayon,2,45,3,5,163500
+nesimi,1ci mikrorayon,2,47,1,16,153500
+nesimi,kubinka,2,84,16,16,294500
+nesimi,4cu mikrorayon,2,49,1,9,142000
+nesimi,4cu mikrorayon,2,65,6,17,195000
+nesimi,4cu mikrorayon,3,99,5,5,221500
+nesimi,3cu mikrorayon,2,47,5,5,114500
+nesimi,3cu mikrorayon,3,113,4,5,321500
+nesimi,kubinka,3,131,3,5,521500
+nesimi,5ci mikrorayon,1,44,2,5,125500
+nesimi,5ci mikrorayon,3,118,4,5,410000
+nesimi,2ci mikrorayon,3,68,17,19,260000
+nesimi,4cu mikrorayon,1,42,3,5,110000
+nesimi,kubinka,4,176,9,16,780000
+nesimi,3cu mikrorayon,3,80,2,5,275000
+nesimi,kubinka,4,157,3,18,552000
+nesimi,2ci mikrorayon,3,89,4,5,249500
+nesimi,3cu mikrorayon,1,38,1,9,110000
+nesimi,3cu mikrorayon,2,51,5,5,140000
+nesimi,3cu mikrorayon,2,48,2,17,135000
+nesimi,5ci mikrorayon,2,58,4,5,195000
+nesimi,1ci mikrorayon,3,116,2,5,299500
+nesimi,1ci mikrorayon,1,39,3,5,117000
+nesimi,1ci mikrorayon,3,87,4,9,282500
+nesimi,kubinka,3,75,11,24,343500
+nesimi,kubinka,3,131,12,16,483500
+nesimi,kubinka,2,61,6,17,170000
+nesimi,1ci mikrorayon,2,45,1,5,135500
+nesimi,1ci mikrorayon,3,108,3,5,350500
+nesimi,3cu mikrorayon,3,78,5,5,262000
+nesimi,4cu mikrorayon,3,66,2,9,232000
+nesimi,4cu mikrorayon,3,75,4,17,208000
+nesimi,5ci mikrorayon,3,90,6,9,351000
+nesimi,1ci mikrorayon,2,49,7,16,147500
+nesimi,4cu mikrorayon,3,61,14,17,183500
+nesimi,3cu mikrorayon,2,48,4,9,189000
+nesimi,kubinka,4,172,3,9,780000
+nesimi,3cu mikrorayon,3,86,1,17,283000
+nesimi,1ci mikrorayon,2,59,5,5,162000
+nesimi,4cu mikrorayon,2,61,2,5,162000
+nesimi,5ci mikrorayon,3,122,4,5,410000
+nesimi,kubinka,3,110,1,18,335000
+nesimi,kubinka,2,68,12,18,325500
+nesimi,5ci mikrorayon,2,47,9,9,175000
+nesimi,1ci mikrorayon,3,120,3,5,345500
+nesimi,1ci mikrorayon,3,73,3,16,228000
+nesimi,1ci mikrorayon,2,49,7,9,144000
+nesimi,kubinka,3,106,13,16,435000
+nesimi,5ci mikrorayon,4,108,4,5,410000
+nesimi,3cu mikrorayon,3,70,5,5,257000
+nesimi,3cu mikrorayon,4,118,2,5,390000
+nesimi,2ci mikrorayon,3,98,4,5,263500
+nesimi,3cu mikrorayon,2,58,3,5,192000
+nesimi,2ci mikrorayon,1,31,3,5,115000
+nesimi,kubinka,3,115,5,5,497500
+nesimi,3cu mikrorayon,1,34,8,17,111500
+nesimi,kubinka,3,135,2,5,563000
+nesimi,5ci mikrorayon,3,120,4,5,394500
+nesimi,kubinka,3,75,5,5,193000
+nesimi,5ci mikrorayon,1,39,1,17,110000
+nesimi,2ci mikrorayon,2,48,5,9,170000
+nesimi,3cu mikrorayon,1,32,5,9,110000
+nesimi,4cu mikrorayon,4,98,3,5,283500
+nesimi,kubinka,3,138,13,18,535500
+nesimi,kubinka,3,153,15,18,459000
+nesimi,2ci mikrorayon,2,47,2,5,136000
+nesimi,1ci mikrorayon,2,46,1,9,119500
+nesimi,4cu mikrorayon,1,33,7,9,118000
+nesimi,kubinka,2,72,14,17,311500
+nesimi,5ci mikrorayon,3,112,3,5,360000
+nesimi,3cu mikrorayon,4,146,1,5,390000
+nesimi,kubinka,2,83,8,17,368500
+nesimi,1ci mikrorayon,2,67,12,18,190500
+nesimi,2ci mikrorayon,2,48,9,17,118500
+nesimi,2ci mikrorayon,2,66,1,5,166500
+nesimi,kubinka,3,117,15,17,454000
+nesimi,4cu mikrorayon,3,83,5,5,233500
+nesimi,2ci mikrorayon,2,63,3,9,191000
+nesimi,3cu mikrorayon,3,116,6,16,379000
+nesimi,5ci mikrorayon,2,62,3,5,235000
+nesimi,4cu mikrorayon,4,95,5,5,336000
+nesimi,4cu mikrorayon,2,53,9,16,119500
+nesimi,kubinka,3,82,18,24,267500
+nesimi,2ci mikrorayon,2,53,16,17,131000
+nesimi,kubinka,2,58,8,17,203500
+nesimi,4cu mikrorayon,4,119,9,9,318500
+nesimi,5ci mikrorayon,3,106,12,18,294500
+nesimi,kubinka,3,131,19,24,370500
+nesimi,5ci mikrorayon,2,75,14,18,204500
+nesimi,4cu mikrorayon,3,69,5,5,163500
+nesimi,5ci mikrorayon,3,140,4,5,410000
+nesimi,5ci mikrorayon,3,90,5,5,207000
+nesimi,5ci mikrorayon,3,81,4,18,288500
+nesimi,3cu mikrorayon,3,117,2,17,364500
+nesimi,kubinka,4,113,15,18,405000
+nesimi,3cu mikrorayon,3,110,5,17,331500
+nesimi,3cu mikrorayon,2,53,1,9,171000
+nesimi,3cu mikrorayon,3,120,1,5,306500
+nesimi,1ci mikrorayon,3,131,2,5,360000
+nesimi,1ci mikrorayon,3,99,9,9,302000
+nesimi,3cu mikrorayon,1,43,14,16,136000
+nesimi,5ci mikrorayon,1,35,6,18,110000
+nesimi,3cu mikrorayon,4,117,2,5,390000
+nesimi,4cu mikrorayon,2,63,3,9,218000
+nesimi,2ci mikrorayon,3,101,3,5,368000
+nesimi,1ci mikrorayon,1,28,5,9,105000
+nesimi,2ci mikrorayon,4,104,3,16,283000
+nesimi,3cu mikrorayon,2,63,10,17,219500
+nesimi,kubinka,3,79,7,16,239000
+nesimi,2ci mikrorayon,2,75,3,5,240000
+nesimi,3cu mikrorayon,2,59,2,5,202500
+nesimi,1ci mikrorayon,2,72,5,9,164500
+nesimi,2ci mikrorayon,3,83,2,5,312000
+nesimi,5ci mikrorayon,2,72,3,18,170000
+nesimi,2ci mikrorayon,2,58,8,16,200500
+nesimi,kubinka,3,109,5,16,364000
+nesimi,3cu mikrorayon,4,123,11,17,338500
+nesimi,2ci mikrorayon,4,94,3,5,319500
+nesimi,3cu mikrorayon,3,93,1,5,338000
+nesimi,kubinka,2,83,3,5,312000
+nesimi,3cu mikrorayon,2,58,5,5,181000
+nesimi,4cu mikrorayon,4,109,5,9,340000
+nesimi,3cu mikrorayon,3,128,4,5,347000
+nesimi,1ci mikrorayon,4,143,5,5,360000
+nesimi,1ci mikrorayon,3,138,1,5,360000
+nesimi,5ci mikrorayon,2,51,3,5,202000
+nesimi,kubinka,3,142,3,5,735000
+nesimi,1ci mikrorayon,2,62,1,5,162500
+nesimi,1ci mikrorayon,2,73,5,5,244000
+nesimi,2ci mikrorayon,3,74,2,9,254000
+nesimi,2ci mikrorayon,2,51,1,5,173500
+nesimi,3cu mikrorayon,4,138,6,9,390000
+nesimi,kubinka,5,155,3,5,780000
+nesimi,5ci mikrorayon,2,66,3,5,241500
+nesimi,3cu mikrorayon,2,57,1,5,140000
+nesimi,3cu mikrorayon,3,81,2,5,260500
+nesimi,3cu mikrorayon,3,126,1,5,360000
+nesimi,2ci mikrorayon,3,68,4,5,216500
+nesimi,5ci mikrorayon,2,75,1,5,207500
+nesimi,1ci mikrorayon,2,65,8,9,168000
+nesimi,kubinka,4,158,4,18,780000
+nesimi,2ci mikrorayon,3,104,1,5,270500
+nesimi,kubinka,3,87,20,24,350500
+nesimi,kubinka,2,67,4,5,377500
+nesimi,3cu mikrorayon,2,60,4,5,203500
+nesimi,4cu mikrorayon,2,60,2,16,144000
+nesimi,3cu mikrorayon,3,98,3,5,263000
+nesimi,2ci mikrorayon,2,56,10,16,189000
+nesimi,5ci mikrorayon,3,118,7,9,358500
+nesimi,kubinka,3,125,1,17,538000
+nesimi,2ci mikrorayon,3,63,3,16,163500
+nesimi,1ci mikrorayon,2,49,3,9,142500
+nesimi,3cu mikrorayon,2,52,3,5,139500
+nesimi,kubinka,3,98,12,16,383000
+nesimi,5ci mikrorayon,2,70,5,5,249000
+nizami,8ci kilometr,2,36,8,14,119000
+nizami,8ci kilometr,1,28,1,16,88000
+nizami,8ci kilometr,2,57,16,16,161000
+nizami,8ci kilometr,2,71,5,5,204500
+nizami,8ci kilometr,2,52,9,9,146000
+nizami,8ci kilometr,3,135,11,14,320000
+nizami,8ci kilometr,1,20,5,5,67500
+nizami,8ci kilometr,2,46,12,14,150500
+nizami,8ci kilometr,1,35,3,5,85000
+nizami,8ci kilometr,3,68,3,5,194000
+nizami,8ci kilometr,1,38,16,16,103000
+nizami,8ci kilometr,2,58,3,14,161000
+nizami,8ci kilometr,3,113,5,5,319500
+nizami,8ci kilometr,2,58,2,5,194000
+nizami,8ci kilometr,2,72,3,5,210000
+nizami,8ci kilometr,2,46,2,5,152000
+nizami,8ci kilometr,3,67,13,16,188500
+nizami,8ci kilometr,3,65,3,5,187500
+nizami,8ci kilometr,2,60,16,18,210000
+nizami,8ci kilometr,2,35,1,5,109500
+nizami,8ci kilometr,2,54,3,16,158500
+nizami,8ci kilometr,3,137,4,5,320000
+nizami,8ci kilometr,2,46,4,5,115500
+nizami,8ci kilometr,2,44,6,16,127500
+nizami,8ci kilometr,3,138,1,5,320000
+nizami,8ci kilometr,3,102,3,14,256000
+nizami,8ci kilometr,2,60,3,18,200000
+nizami,8ci kilometr,2,49,1,5,123500
+nizami,8ci kilometr,2,52,13,18,162000
+nizami,8ci kilometr,2,61,4,5,177000
+nizami,8ci kilometr,2,63,5,5,166500
+nizami,8ci kilometr,2,67,3,5,173000
+nizami,8ci kilometr,3,70,8,16,201500
+nizami,8ci kilometr,2,38,4,9,124000
+nizami,8ci kilometr,2,56,3,5,175000
+nizami,8ci kilometr,3,100,6,18,306500
+nizami,8ci kilometr,1,23,17,19,60000
+nizami,8ci kilometr,2,49,2,5,116000
+nizami,8ci kilometr,3,84,18,18,209500
+nizami,8ci kilometr,3,84,5,14,277500
+nizami,8ci kilometr,3,104,14,18,320000
+nizami,8ci kilometr,2,59,4,18,170000
+nizami,8ci kilometr,3,98,12,14,286000
+nizami,8ci kilometr,3,67,2,5,224500
+nizami,8ci kilometr,2,75,3,5,210000
+nizami,8ci kilometr,2,49,4,5,153500
+nizami,8ci kilometr,3,77,14,16,217500
+nizami,8ci kilometr,2,78,3,5,210000
+nizami,8ci kilometr,2,36,4,9,136500
+nizami,8ci kilometr,3,138,5,16,320000
+nizami,8ci kilometr,2,38,4,9,139000
+nizami,8ci kilometr,2,77,16,16,184500
+nizami,8ci kilometr,3,130,2,5,316500
+nizami,8ci kilometr,3,109,4,19,287500
+nizami,8ci kilometr,3,128,2,5,320000
+nizami,8ci kilometr,3,123,4,5,320000
+nizami,8ci kilometr,3,82,6,16,191000
+nizami,8ci kilometr,3,91,4,5,272500
+nizami,8ci kilometr,3,131,5,5,320000
+nizami,8ci kilometr,3,69,3,14,203500
+nizami,8ci kilometr,2,53,12,14,144000
+nizami,8ci kilometr,1,20,3,5,71000
+nizami,8ci kilometr,2,64,5,5,159500
+nizami,8ci kilometr,2,55,17,18,162500
+nizami,8ci kilometr,2,35,9,16,102000
+nizami,8ci kilometr,2,43,1,5,101000
+nizami,8ci kilometr,2,69,5,5,210000
+nizami,8ci kilometr,2,37,6,9,112500
+nizami,8ci kilometr,2,59,15,16,203000
+nizami,8ci kilometr,2,55,5,5,157000
+nizami,8ci kilometr,2,67,1,9,174500
+nizami,8ci kilometr,2,76,5,5,205500
+nizami,8ci kilometr,2,45,10,19,121500
+nizami,8ci kilometr,2,54,1,5,153500
+nizami,8ci kilometr,3,84,13,18,207000
+nizami,8ci kilometr,2,70,3,5,210000
+nizami,8ci kilometr,3,79,8,14,265000
+nizami,8ci kilometr,2,78,1,5,197500
+nizami,8ci kilometr,2,36,10,14,95000
+nizami,8ci kilometr,2,59,7,18,188000
+nizami,8ci kilometr,2,38,9,16,104500
+nizami,8ci kilometr,2,76,1,9,210000
+nizami,8ci kilometr,2,39,5,5,112000
+nizami,8ci kilometr,2,53,1,5,135000
+nizami,8ci kilometr,2,61,2,5,144500
+nizami,8ci kilometr,3,87,5,5,285500
+nizami,8ci kilometr,2,63,13,16,183000
+nizami,8ci kilometr,2,56,2,5,177000
+nizami,8ci kilometr,3,103,1,9,306000
+nizami,8ci kilometr,2,76,5,5,210000
+nizami,8ci kilometr,2,48,4,5,126000
+nizami,8ci kilometr,3,77,14,14,192000
+nizami,8ci kilometr,2,68,9,16,185500
+nizami,8ci kilometr,2,59,15,18,208000
+nizami,8ci kilometr,3,91,2,5,230000
+nizami,8ci kilometr,1,36,4,16,120000
+nizami,8ci kilometr,3,138,4,9,320000
+nizami,8ci kilometr,2,55,4,19,160500
+nizami,8ci kilometr,3,103,8,14,320000
+nizami,8ci kilometr,2,36,1,5,129000
+nizami,8ci kilometr,2,57,5,5,152500
+nizami,8ci kilometr,2,65,3,5,210000
+nizami,8ci kilometr,1,36,2,16,120000
+nizami,8ci kilometr,2,55,1,5,167500
+nizami,8ci kilometr,3,89,6,9,256500
+nizami,8ci kilometr,2,63,5,5,163500
+nizami,8ci kilometr,3,129,6,19,320000
+nizami,8ci kilometr,2,50,2,9,174000
+nizami,8ci kilometr,2,63,1,18,154000
+nizami,8ci kilometr,3,95,2,5,282000
+nizami,8ci kilometr,1,22,15,18,60000
+nizami,8ci kilometr,3,95,8,14,254000
+nizami,8ci kilometr,2,77,13,19,210000
+nizami,8ci kilometr,3,75,4,5,270000
+nizami,8ci kilometr,1,33,5,5,102000
+nizami,8ci kilometr,3,132,4,5,320000
+nizami,8ci kilometr,2,35,15,18,111000
+nizami,8ci kilometr,1,25,1,5,88500
+nizami,8ci kilometr,1,32,12,16,109500
+nizami,8ci kilometr,3,107,1,14,320000
+nizami,8ci kilometr,2,52,5,5,176000
+nizami,8ci kilometr,3,135,4,5,320000
+nizami,8ci kilometr,3,106,5,9,259000
+nizami,8ci kilometr,2,37,8,16,117000
+nizami,8ci kilometr,2,47,7,9,159000
+nizami,8ci kilometr,2,62,5,16,197000
+nizami,8ci kilometr,2,64,6,16,210000
+nizami,8ci kilometr,2,55,6,9,158000
+nizami,8ci kilometr,2,76,16,16,208500
+nizami,8ci kilometr,3,134,1,5,320000
+nizami,8ci kilometr,2,68,3,5,189500
+nizami,8ci kilometr,2,71,16,18,189500
+nizami,8ci kilometr,1,21,2,5,60000
+nizami,8ci kilometr,2,46,16,16,136000
+nizami,8ci kilometr,2,76,5,9,210000
+nizami,8ci kilometr,2,57,3,5,162500
+nizami,8ci kilometr,2,57,14,14,174000
+nizami,8ci kilometr,2,48,2,5,174000
+nizami,8ci kilometr,2,62,14,19,186500
+nizami,8ci kilometr,3,73,1,5,182500
+nizami,8ci kilometr,2,51,1,5,138500
+nizami,8ci kilometr,2,66,5,18,191500
+nizami,8ci kilometr,2,73,4,5,200500
+nizami,8ci kilometr,3,106,2,5,309500
+nizami,8ci kilometr,2,71,1,18,210000
+nizami,8ci kilometr,3,67,4,16,197500
+nizami,8ci kilometr,2,69,3,5,165000
+nizami,8ci kilometr,3,98,2,5,299500
+nizami,8ci kilometr,2,73,15,16,207500
+nizami,8ci kilometr,2,61,9,9,170000
+sabuncu,bakixanov,4,131,4,5,340000
+sabuncu,ramana,1,33,3,5,45000
+sabuncu,ramana,1,38,2,4,45000
+sabuncu,zabrat,4,96,1,4,128000
+sabuncu,savalan,4,110,4,9,163500
+sabuncu,sea breeze,3,128,4,9,421000
+sabuncu,savalan,1,39,6,9,71500
+sabuncu,ramana,4,103,4,4,141500
+sabuncu,zabrat,2,55,8,8,63000
+sabuncu,savalan,4,96,1,4,131500
+sabuncu,zabrat,4,99,8,8,100000
+sabuncu,zabrat,2,59,7,10,68000
+sabuncu,bakixanov,3,83,1,5,194000
+sabuncu,sea breeze,2,76,13,14,258500
+sabuncu,ramana,2,60,3,5,73000
+sabuncu,bakixanov,4,165,1,9,340000
+sabuncu,bakixanov,4,113,4,5,302000
+sabuncu,sabuncu,2,75,9,9,159500
+sabuncu,savalan,4,120,4,4,170000
+sabuncu,sea breeze,2,96,8,9,493000
+sabuncu,sea breeze,2,89,1,14,582500
+sabuncu,savalan,2,72,1,5,95000
+sabuncu,ramana,3,101,3,4,116500
+sabuncu,sabuncu,3,120,6,9,209000
+sabuncu,zabrat,1,40,3,5,49000
+sabuncu,zabrat,2,73,3,8,93000
+sabuncu,sabuncu,3,95,3,6,256500
+sabuncu,sabuncu,3,71,12,18,133000
+sabuncu,sabuncu,1,36,12,14,72500
+sabuncu,bakixanov,3,96,1,4,193500
+sabuncu,ramana,4,98,4,9,101500
+sabuncu,sabuncu,3,127,1,5,350000
+sabuncu,ramana,3,73,1,4,58500
+sabuncu,sea breeze,2,75,2,7,321000
+sabuncu,savalan,2,71,5,9,119500
+sabuncu,sabuncu,3,75,2,5,155000
+sabuncu,ramana,1,30,6,9,45000
+sabuncu,sabuncu,4,147,11,14,292500
+sabuncu,bakixanov,4,105,7,9,229500
+sabuncu,zabrat,3,79,1,5,80500
+sabuncu,zabrat,2,47,5,10,46000
+sabuncu,sea breeze,2,102,1,4,417000
+sabuncu,bakixanov,3,111,4,4,340000
+sabuncu,sea breeze,2,100,1,14,585000
+sabuncu,sea breeze,2,73,4,9,268000
+sabuncu,bakixanov,4,153,4,9,340000
+sabuncu,bakixanov,2,70,3,4,173000
+sabuncu,bakixanov,2,63,2,4,168500
+sabuncu,sea breeze,2,103,2,7,512000
+sabuncu,ramana,2,63,4,4,73500
+sabuncu,sea breeze,2,83,7,9,415500
+sabuncu,sabuncu,3,77,7,9,140500
+sabuncu,ramana,4,121,5,5,165000
+sabuncu,bakixanov,2,82,4,4,186000
+sabuncu,ramana,5,154,2,9,165000
+sabuncu,sea breeze,4,135,4,7,720000
+sabuncu,bakixanov,2,80,1,9,182000
+sabuncu,bakixanov,3,96,3,8,243000
+sabuncu,zabrat,4,109,7,10,160000
+sabuncu,ramana,4,97,5,5,118000
+sabuncu,sea breeze,3,101,1,4,441000
+sabuncu,zabrat,1,34,1,4,45000
+sabuncu,bakixanov,2,85,3,4,196000
+sabuncu,ramana,3,70,4,5,64500
+sabuncu,zabrat,4,108,1,5,155500
+sabuncu,zabrat,2,59,6,8,69000
+sabuncu,sabuncu,1,32,4,5,80000
+sabuncu,sabuncu,3,131,8,18,308500
+sabuncu,sea breeze,2,79,7,9,366500
+sabuncu,sea breeze,4,121,4,4,527500
+sabuncu,sea breeze,4,153,3,14,720000
+sabuncu,zabrat,2,65,7,8,66000
+sabuncu,bakixanov,4,159,5,8,340000
+sabuncu,sea breeze,3,93,2,9,631500
+sabuncu,savalan,3,69,1,4,104000
+sabuncu,sea breeze,2,83,3,4,414000
+sabuncu,sea breeze,3,125,7,9,619500
+sabuncu,ramana,2,57,5,9,66500
+sabuncu,zabrat,3,58,2,5,108500
+sabuncu,sea breeze,2,88,8,14,273500
+sabuncu,sea breeze,2,81,3,7,241500
+sabuncu,sabuncu,3,116,7,14,311000
+sabuncu,ramana,3,81,3,5,98000
+sabuncu,zabrat,2,49,7,10,86500
+sabuncu,bakixanov,2,76,5,8,177500
+sabuncu,zabrat,3,71,2,5,77500
+sabuncu,sea breeze,5,180,9,9,720000
+sabuncu,sea breeze,2,72,12,14,450500
+sabuncu,sabuncu,3,98,2,5,174000
+sabuncu,ramana,4,119,4,5,154000
+sabuncu,zabrat,2,65,5,5,45000
+sabuncu,sea breeze,1,47,1,4,233000
+sabuncu,sabuncu,4,105,3,5,194000
+sabuncu,sea breeze,3,104,4,7,549000
+sabuncu,bakixanov,2,62,8,9,187000
+sabuncu,sabuncu,4,145,3,14,288500
+sabuncu,sabuncu,2,56,5,9,152500
+sabuncu,bakixanov,5,116,8,9,287000
+sabuncu,bakixanov,1,31,2,9,95000
+sabuncu,zabrat,2,67,2,4,72500
+sabuncu,zabrat,3,72,7,8,128500
+sabuncu,bakixanov,3,105,1,8,276500
+sabuncu,sabuncu,1,38,9,14,89500
+sabuncu,bakixanov,3,110,1,5,249000
+sabuncu,ramana,3,74,8,9,88500
+sabuncu,sea breeze,3,93,2,4,576500
+sabuncu,zabrat,2,53,1,4,53000
+sabuncu,sabuncu,2,70,5,14,138500
+sabuncu,bakixanov,1,40,3,4,95000
+sabuncu,zabrat,3,65,3,8,91000
+sabuncu,sea breeze,4,130,5,7,720000
+sabuncu,sea breeze,1,60,6,7,356500
+sabuncu,bakixanov,3,105,4,4,267000
+sabuncu,savalan,4,87,4,5,107000
+sabuncu,sabuncu,4,142,1,5,305000
+sabuncu,sabuncu,4,129,6,14,237000
+sabuncu,sea breeze,2,76,8,9,363000
+sabuncu,bakixanov,2,85,1,4,187500
+sabuncu,bakixanov,2,71,8,8,216000
+sabuncu,sea breeze,4,152,1,9,720000
+sabuncu,bakixanov,1,36,4,5,95000
+sabuncu,sabuncu,2,61,8,18,113500
+sabuncu,sabuncu,2,74,1,6,185000
+sabuncu,bakixanov,2,60,7,8,152000
+sabuncu,sea breeze,1,49,3,9,345500
+sabuncu,zabrat,2,56,2,5,70000
+sabuncu,sea breeze,2,77,2,7,310500
+sabuncu,savalan,4,93,1,4,103500
+sabuncu,bakixanov,2,87,7,8,255500
+sabuncu,sea breeze,3,111,3,14,530000
+sabuncu,sea breeze,2,79,4,7,395500
+sabuncu,zabrat,2,46,8,8,45000
+sabuncu,ramana,4,90,8,9,108000
+sabuncu,bakixanov,3,102,4,8,314000
+sabuncu,savalan,3,92,3,4,94000
+sabuncu,sea breeze,3,135,2,9,508500
+sabuncu,zabrat,3,95,1,10,125000
+sabuncu,ramana,3,91,3,5,137000
+sabuncu,ramana,3,91,4,4,128500
+sabuncu,bakixanov,4,109,5,8,257500
+sabuncu,bakixanov,4,124,7,8,340000
+sabuncu,bakixanov,3,109,4,9,340000
+sabuncu,sea breeze,2,80,3,4,436000
+sabuncu,zabrat,2,72,3,8,129000
+sabuncu,sabuncu,3,129,8,9,350000
+sabuncu,bakixanov,1,42,8,9,95000
+sabuncu,bakixanov,3,85,8,8,229000
+sabuncu,sabuncu,3,86,6,9,184000
+sabuncu,bakixanov,3,91,4,4,214000
+sabuncu,ramana,3,81,1,4,115500
+sabuncu,sabuncu,1,35,1,9,82000
+sabuncu,sea breeze,4,121,4,7,720000
+sabuncu,bakixanov,4,126,7,8,285000
+sabuncu,zabrat,2,53,5,5,92500
+sabuncu,sabuncu,1,38,7,9,73500
+sabuncu,bakixanov,3,109,4,4,241000
+sabuncu,zabrat,2,73,3,4,117000
+sabuncu,sabuncu,3,88,4,6,185500
+sabuncu,sabuncu,1,29,11,18,75000
+sabuncu,sabuncu,2,57,9,14,142500
+sabuncu,sabuncu,1,34,5,5,73000
+sabuncu,zabrat,3,86,2,10,139000
+sabuncu,ramana,4,108,2,4,147000
+sabuncu,sabuncu,2,68,14,18,146500
+sabuncu,ramana,3,74,3,5,112500
+sabuncu,zabrat,3,80,2,5,120500
+sabuncu,ramana,5,148,3,9,165000
+sabuncu,sea breeze,3,128,6,9,510000
+sabuncu,bakixanov,3,90,3,4,268500
+sabuncu,sea breeze,2,100,11,14,509000
+sabuncu,savalan,2,80,5,5,102500
+sabuncu,savalan,3,103,2,5,122500
+sabuncu,bakixanov,4,120,4,9,340000
+sabuncu,sabuncu,2,56,1,18,136000
+sabuncu,sea breeze,2,74,3,7,389000
+sabuncu,bakixanov,2,82,7,8,176000
+sabuncu,sabuncu,3,76,17,18,200500
+sabuncu,sabuncu,3,130,8,18,256000
+sabuncu,sea breeze,2,95,4,4,338500
+sabuncu,sabuncu,3,134,13,18,298000
+sabuncu,sabuncu,3,128,11,14,315000
+sabuncu,sabuncu,5,153,10,18,350000
+sabuncu,sabuncu,3,106,8,18,227500
+sabuncu,zabrat,3,71,7,10,72000
+sabuncu,sea breeze,3,126,12,14,512500
+sabuncu,bakixanov,3,92,2,4,277000
+sabuncu,sea breeze,4,126,4,7,639000
+sabuncu,bakixanov,3,80,3,8,250500
+sabuncu,sabuncu,3,98,2,5,225000
+sabuncu,zabrat,4,95,2,4,105000
+sabuncu,ramana,2,66,2,4,78500
+sabuncu,sabuncu,3,114,4,5,256500
+sabuncu,bakixanov,2,83,6,8,249000
+sabuncu,sabuncu,4,133,9,9,231500
+sabuncu,bakixanov,2,60,4,9,159000
+sabuncu,sea breeze,3,102,1,4,663000
+sabuncu,bakixanov,1,38,1,5,103000
+sabuncu,savalan,4,114,4,4,113500
+sabuncu,sea breeze,3,92,9,9,520500
+sabuncu,bakixanov,5,149,3,9,340000
+sabuncu,ramana,4,121,4,5,143500
+sabuncu,sabuncu,2,54,18,18,106000
+sabuncu,sea breeze,2,105,13,14,559500
+sabuncu,ramana,3,86,4,4,98500
+sabuncu,ramana,3,71,4,5,98000
+sabuncu,sea breeze,2,87,4,14,405500
+sabuncu,savalan,2,63,1,5,73000
+sabuncu,bakixanov,2,81,1,5,183500
+sabuncu,savalan,3,73,1,9,82000
+sabuncu,ramana,4,119,6,9,158000
+sabuncu,ramana,3,72,3,5,91000
+sabuncu,bakixanov,2,82,2,9,202000
+sabuncu,bakixanov,2,58,2,4,173500
+sabuncu,ramana,4,116,2,4,138500
+sabuncu,sea breeze,2,79,2,14,254500
+sabuncu,sabuncu,4,148,5,9,302000
+sabuncu,bakixanov,3,108,4,9,296500
+sabuncu,zabrat,3,80,8,8,102500
+sabuncu,sea breeze,3,95,1,4,407500
+sabuncu,ramana,3,84,3,5,127500
+sabuncu,zabrat,3,78,4,4,77000
+sabuncu,ramana,3,82,4,5,101500
+sabuncu,zabrat,3,60,4,4,57000
+sabuncu,bakixanov,2,67,4,4,202500
+sabuncu,bakixanov,2,69,8,9,158500
+sabuncu,bakixanov,4,156,1,5,340000
+sabuncu,ramana,4,98,4,4,121000
+sabuncu,zabrat,4,103,1,4,136500
+sabuncu,bakixanov,3,90,2,4,235500
+sabuncu,bakixanov,2,61,4,8,188500
+sabuncu,ramana,4,94,4,4,127000
+sabuncu,zabrat,2,60,2,8,65500
+sabuncu,bakixanov,1,41,1,5,119500
+sabuncu,sea breeze,2,98,1,9,358000
+sabuncu,sabuncu,3,104,8,9,189000
+sabuncu,zabrat,2,64,5,5,81500
+sabuncu,zabrat,4,106,3,10,150500
+sabuncu,ramana,2,74,1,9,58000
+sabuncu,sea breeze,2,72,3,14,383000
+sabuncu,zabrat,3,93,3,5,119500
+sabuncu,zabrat,1,34,4,8,59000
+sabuncu,sea breeze,2,82,4,9,498500
+sabuncu,bakixanov,2,82,1,8,236000
+sabuncu,bakixanov,4,123,5,5,279000
+sabuncu,savalan,4,96,3,5,140000
+sabuncu,bakixanov,3,97,8,8,228000
+sabuncu,bakixanov,5,142,4,8,340000
+sabuncu,ramana,2,67,3,5,66500
+sabuncu,sea breeze,2,91,13,14,297000
+sabuncu,savalan,2,53,8,9,70000
+sebail,badamdar,2,87,11,16,267500
+sebail,sixov,3,91,5,5,239000
+sebail,badamdar,4,130,11,13,335500
+sebail,20ci sahe,3,80,1,1,156000
+sebail,bibiheybet,3,98,14,16,207000
+sebail,bayil,3,82,8,17,146000
+sebail,bibiheybet,2,75,15,16,191500
+sebail,bibiheybet,2,75,14,17,214000
+sebail,badamdar,3,84,9,18,233000
+sebail,bayil,1,44,1,6,115000
+sebail,bibiheybet,3,83,1,2,232500
+sebail,20ci sahe,4,83,2,2,165500
+sebail,20ci sahe,2,75,2,5,151000
+sebail,badamdar,3,106,18,18,191000
+sebail,sixov,1,53,3,5,140000
+sebail,badamdar,3,94,1,3,286500
+sebail,sixov,3,124,1,7,355500
+sebail,bayil,3,122,3,6,251500
+sebail,bibiheybet,2,63,10,17,103000
+sebail,bayil,3,74,13,16,197500
+sebail,sixov,3,142,4,5,380000
+sebail,badamdar,3,135,3,3,380000
+sebail,badamdar,3,86,6,18,203000
+sebail,badamdar,1,36,2,18,110000
+sebail,bibiheybet,2,51,5,20,108500
+sebail,bibiheybet,3,100,6,16,243500
+sebail,bibiheybet,2,77,2,17,174500
+sebail,sixov,1,52,3,5,176000
+sebail,badamdar,3,87,3,16,272000
+sebail,20ci sahe,2,62,5,5,118500
+sebail,20ci sahe,3,68,2,5,110000
+sebail,bibiheybet,2,62,11,12,176500
+sebail,20ci sahe,2,46,1,17,111000
+sebail,badamdar,3,102,10,16,278500
+sebail,sixov,2,84,3,6,181500
+sebail,20ci sahe,2,59,14,17,127500
+sebail,20ci sahe,1,35,1,1,75000
+sebail,badamdar,4,124,3,16,329500
+sebail,sixov,1,46,1,6,140000
+sebail,bibiheybet,2,68,3,16,112500
+sebail,bayil,3,117,5,6,288500
+sebail,bibiheybet,2,64,1,2,158000
+sebail,badamdar,3,106,5,18,291500
+sebail,20ci sahe,4,80,1,2,198000
+sebail,bibiheybet,2,56,8,16,119000
+sebail,20ci sahe,3,84,2,2,158000
+sebail,bayil,4,127,9,17,320000
+sebail,sixov,3,118,4,7,219000
+sebail,bayil,3,85,14,16,203000
+sebail,bayil,2,77,1,6,186500
+sebail,bayil,3,105,1,6,235500
+sebail,bibiheybet,2,63,1,20,149500
+sebail,bibiheybet,3,97,4,20,187000
+sebail,sixov,4,129,2,5,301500
+sebail,badamdar,3,107,9,16,224000
+sebail,badamdar,3,118,3,3,353000
+sebail,bibiheybet,2,59,15,20,120000
+sebail,bayil,4,125,3,6,320000
+sebail,bayil,2,87,4,6,208000
+sebail,badamdar,2,74,4,16,253000
+sebail,bayil,3,107,2,6,252000
+sebail,bibiheybet,3,109,17,17,286500
+sebail,bibiheybet,2,86,17,17,168000
+sebail,badamdar,2,72,13,16,179000
+sebail,bayil,3,87,1,6,197500
+sebail,sixov,3,103,2,5,222500
+sebail,sixov,4,136,4,6,380000
+sebail,20ci sahe,2,62,14,17,115000
+sebail,20ci sahe,2,60,15,17,83500
+sebail,bibiheybet,3,91,11,12,241000
+sebail,20ci sahe,4,101,2,17,167000
+sebail,bibiheybet,3,98,4,12,228500
+sebail,20ci sahe,1,42,2,3,106000
+sebail,bayil,3,81,6,17,174000
+sebail,badamdar,4,112,6,16,299500
+sebail,sixov,3,138,3,5,380000
+sebail,badamdar,1,55,3,16,110000
+sebail,bayil,3,102,7,17,281000
+sebail,20ci sahe,3,75,1,1,149500
+sebail,sixov,3,121,3,7,289000
+sebail,bibiheybet,2,84,2,12,150500
+sebail,bibiheybet,2,55,2,17,120000
+sebail,badamdar,3,117,17,18,333500
+sebail,bibiheybet,2,58,2,20,100000
+sebail,bibiheybet,3,101,9,17,241500
+sebail,badamdar,2,90,7,13,212000
+sebail,20ci sahe,3,90,1,3,212000
+sebail,bibiheybet,3,97,1,2,172500
+sebail,badamdar,2,84,1,3,173500
+sebail,badamdar,2,68,8,13,117000
+sebail,bibiheybet,3,84,7,20,232500
+sebail,badamdar,2,76,2,3,199000
+sebail,bibiheybet,2,70,1,2,131500
+sebail,sixov,3,134,5,7,380000
+sebail,bibiheybet,4,114,2,2,216500
+sebail,bibiheybet,3,108,5,12,330000
+sebail,bayil,2,75,6,16,145500
+sebail,bibiheybet,3,81,11,16,185000
+sebail,badamdar,3,116,17,18,337500
+sebail,sixov,2,75,3,6,251000
+sebail,bayil,4,114,2,17,234000
+sebail,badamdar,2,79,3,3,222500
+sebail,bayil,3,101,7,16,268500
+sebail,badamdar,3,121,1,13,277000
+sebail,bibiheybet,3,94,3,17,241000
+sebail,bayil,2,99,8,17,223500
+sebail,badamdar,1,42,1,3,135000
+sebail,badamdar,2,85,4,18,267500
+sebail,sixov,2,83,2,7,244000
+sebail,20ci sahe,2,66,14,17,137500
+sebail,badamdar,3,118,9,16,273500
+sebail,bibiheybet,3,93,2,2,192000
+sebail,bayil,2,74,5,6,172000
+sebail,sixov,3,154,2,7,380000
+sebail,20ci sahe,3,75,1,1,122500
+sebail,sixov,3,158,4,7,380000
+sebail,badamdar,3,99,15,18,296500
+sebail,20ci sahe,3,68,1,1,145500
+sebail,bayil,3,109,13,16,273000
+sebail,badamdar,3,83,14,16,241000
+sebail,bayil,2,98,6,16,270500
+sebail,bibiheybet,3,110,5,17,306000
+sebail,20ci sahe,2,60,1,2,121500
+sebail,sixov,1,51,3,5,140000
+sebail,20ci sahe,2,59,3,5,115500
+sebail,sixov,4,171,4,6,380000
+sebail,badamdar,2,72,2,16,138500
+sebail,bibiheybet,3,104,1,17,240500
+sebail,bibiheybet,3,81,5,16,182500
+sebail,badamdar,3,134,18,18,368500
+sebail,sixov,2,67,6,7,246000
+sebail,bayil,2,90,6,16,196000
+sebail,sixov,3,157,4,6,299000
+sebail,20ci sahe,3,78,1,1,173000
+sebail,sixov,3,96,2,5,258000
+sebail,bayil,2,74,15,17,181000
+sebail,badamdar,2,77,18,18,220500
+sebail,sixov,4,123,2,5,380000
+sebail,sixov,2,74,3,7,217000
+sebail,bayil,4,108,4,16,216000
+sebail,badamdar,3,121,1,3,301500
+sebail,sixov,2,80,2,7,205000
+sebail,badamdar,2,67,10,13,178500
+sebail,bayil,3,119,16,16,320000
+sebail,bayil,3,85,17,17,272500
+sebail,bibiheybet,2,86,10,16,189000
+sebail,sixov,1,45,4,5,140000
+sebail,20ci sahe,4,107,5,17,230000
+sebail,sixov,2,66,1,7,187500
+sebail,bibiheybet,3,83,6,12,193000
+sebail,badamdar,3,80,2,18,181000
+sebail,bibiheybet,3,77,1,2,185000
+sebail,sixov,2,80,2,6,186000
+sebail,20ci sahe,4,94,1,1,197500
+sebail,sixov,2,78,7,7,231000
+sebail,20ci sahe,2,70,1,1,173500
+sebail,bibiheybet,2,90,2,2,219500
+sebail,20ci sahe,4,105,2,3,230000
+sebail,badamdar,3,96,3,3,296000
+sebail,bibiheybet,4,111,5,12,330000
+sebail,20ci sahe,4,95,13,17,224500
+sebail,bibiheybet,3,80,2,17,236000
+sebail,20ci sahe,2,50,2,3,106000
+sebail,badamdar,3,117,7,13,371000
+sebail,badamdar,3,114,1,18,279500
+sebail,badamdar,3,125,3,13,312000
+sebail,sixov,1,47,3,6,140000
+sebail,bibiheybet,3,98,11,17,202000
+sebail,bayil,3,105,5,6,300500
+sebail,badamdar,2,89,13,13,207000
+sebail,sixov,2,85,4,5,220000
+sebail,sixov,3,137,4,5,380000
+sebail,bayil,3,96,2,16,235000
+sebail,badamdar,3,94,16,16,207500
+sebail,bayil,2,72,2,6,198500
+sebail,sixov,2,60,4,5,174500
+sebail,20ci sahe,3,63,2,5,109500
+sebail,20ci sahe,3,81,2,3,195000
+sebail,bibiheybet,2,54,6,12,126000
+sebail,sixov,2,64,5,6,218500
+sebail,badamdar,3,120,18,18,335000
+sebail,badamdar,1,38,16,18,110000
+sebail,sixov,3,113,4,7,311000
+sebail,20ci sahe,3,60,9,17,110000
+sebail,bibiheybet,3,110,2,2,294000
+sebail,bayil,3,114,6,6,216000
+sebail,bibiheybet,2,66,2,17,157500
+sebail,20ci sahe,4,95,1,1,201000
+sebail,bibiheybet,2,84,8,12,183000
+sebail,sixov,2,61,2,5,140000
+sebail,bibiheybet,3,82,7,20,236500
+sebail,bibiheybet,2,72,4,17,211500
+sebail,sixov,3,121,7,7,307000
+sebail,badamdar,3,86,8,18,277500
+sebail,bayil,3,90,4,16,287500
+sebail,bibiheybet,1,44,1,17,103000
+sebail,bibiheybet,2,73,2,2,115500
+sebail,sixov,3,110,4,6,380000
+sebail,badamdar,4,151,2,3,380000
+sebail,20ci sahe,4,94,1,3,208000
+sebail,20ci sahe,2,70,2,2,121500
+sebail,20ci sahe,2,49,2,5,75000
+sebail,sixov,2,75,1,5,141000
+sebail,badamdar,3,119,11,13,268500
+sebail,sixov,2,85,3,6,281500
+sebail,20ci sahe,2,48,1,1,111000
+sebail,sixov,2,68,4,5,159500
+sebail,badamdar,3,134,14,16,380000
+sebail,sixov,3,131,3,7,300000
+sebail,20ci sahe,3,84,7,17,149000
+sebail,badamdar,3,106,1,16,318000
+sebail,badamdar,3,84,7,13,160500
+sebail,20ci sahe,2,64,3,5,136000
+sebail,bayil,2,62,2,6,124500
+sebail,20ci sahe,3,78,1,1,136500
+sebail,badamdar,2,72,3,16,142000
+sebail,bayil,2,84,2,6,196000
+sebail,badamdar,3,138,1,16,372000
+sebail,badamdar,3,112,6,13,373000
+sebail,sixov,3,90,3,5,280500
+sebail,sixov,1,42,3,5,140000
+sebail,badamdar,4,131,7,16,329000
+sebail,20ci sahe,4,118,3,3,193500
+sebail,bayil,2,62,2,6,167500
+sebail,badamdar,3,106,6,18,283000
+sebail,sixov,3,90,5,5,193500
+sebail,badamdar,2,86,9,18,158500
+sebail,sixov,3,92,5,7,309000
+sebail,20ci sahe,4,116,6,17,230000
+sebail,badamdar,4,130,1,18,320500
+sebail,bibiheybet,3,89,1,2,246500
+sebail,sixov,3,147,3,6,380000
+sebail,sixov,1,48,1,7,145000
+sebail,badamdar,3,140,14,16,358000
+sebail,20ci sahe,3,68,12,17,165500
+sebail,bayil,2,72,13,16,159000
+sebail,badamdar,3,82,2,13,214000
+sebail,sixov,4,122,3,6,271000
+sebail,sixov,2,64,5,6,180000
+sebail,bayil,1,45,13,17,128000
+sebail,sixov,1,53,2,6,140000
+sebail,20ci sahe,3,85,1,17,136000
+sebail,bayil,4,143,6,17,320000
+sebail,20ci sahe,2,70,1,5,152000
+sebail,bibiheybet,3,98,5,20,241000
+sebail,bibiheybet,3,107,3,12,229000
+sebail,bayil,2,95,7,17,249000
+sebail,badamdar,3,110,12,13,283000
+sebail,bibiheybet,4,125,4,17,269000
+sebail,bayil,4,135,3,17,320000
+suraxani,hovsan,4,107,4,7,185000
+suraxani,gunesli,2,62,4,10,152500
+suraxani,qaracuxur,4,122,6,11,220000
+suraxani,gunesli,2,64,5,10,132000
+suraxani,zig,2,59,10,14,95000
+suraxani,zig,5,134,1,5,210000
+suraxani,gunesli,3,93,6,15,245000
+suraxani,zig,5,130,13,14,210000
+suraxani,hovsan,4,116,9,9,185000
+suraxani,zig,3,78,5,9,144000
+suraxani,qaracuxur,2,54,2,5,91500
+suraxani,qaracuxur,4,95,1,5,220000
+suraxani,qaracuxur,2,55,7,11,101000
+suraxani,gunesli,2,60,2,10,170000
+suraxani,qaracuxur,2,66,8,12,126500
+suraxani,qaracuxur,2,68,2,5,182000
+suraxani,qaracuxur,2,49,2,4,95500
+suraxani,qaracuxur,2,63,4,5,138000
+suraxani,hovsan,2,43,1,7,69000
+suraxani,zig,2,55,3,5,84500
+suraxani,qaracuxur,2,60,9,11,95000
+suraxani,zig,2,51,5,9,95500
+suraxani,zig,2,57,2,9,79500
+suraxani,gunesli,3,100,4,15,217500
+suraxani,gunesli,3,100,14,14,175500
+suraxani,gunesli,3,105,2,14,210500
+suraxani,qaracuxur,3,77,3,5,215500
+suraxani,gunesli,2,58,1,9,130000
+suraxani,gunesli,3,71,1,15,172500
+suraxani,gunesli,3,72,11,15,162500
+suraxani,hovsan,2,45,5,7,69500
+suraxani,hovsan,3,85,4,5,163000
+suraxani,hovsan,3,80,4,9,99000
+suraxani,gunesli,3,87,5,15,228000
+suraxani,qaracuxur,2,53,1,4,139500
+suraxani,gunesli,3,79,10,14,176000
+suraxani,gunesli,2,62,12,14,175000
+suraxani,zig,4,102,1,5,152500
+suraxani,gunesli,2,59,1,10,118500
+suraxani,zig,5,136,9,9,210000
+suraxani,gunesli,2,74,3,15,198000
+suraxani,zig,2,70,7,9,115500
+suraxani,qaracuxur,2,66,1,4,98000
+suraxani,hovsan,4,113,1,5,185000
+suraxani,gunesli,3,82,2,15,167000
+suraxani,hovsan,4,98,2,5,157000
+suraxani,hovsan,3,87,1,7,120000
+suraxani,gunesli,3,74,7,15,167500
+suraxani,hovsan,3,73,6,7,81000
+suraxani,qaracuxur,2,66,5,12,122000
+suraxani,gunesli,3,70,10,15,156500
+suraxani,gunesli,3,79,5,10,212500
+suraxani,zig,4,110,5,5,186500
+suraxani,zig,3,98,4,9,166500
+suraxani,gunesli,3,76,8,9,182500
+suraxani,gunesli,2,75,2,10,163000
+suraxani,hovsan,4,98,5,9,155000
+suraxani,hovsan,4,91,1,7,179000
+suraxani,gunesli,4,103,1,15,223000
+suraxani,gunesli,3,80,8,14,182500
+suraxani,hovsan,3,76,3,5,139000
+suraxani,zig,2,61,4,5,88500
+suraxani,gunesli,2,74,10,10,148500
+suraxani,hovsan,4,95,2,7,134500
+suraxani,gunesli,2,75,4,14,151000
+suraxani,qaracuxur,4,109,4,11,220000
+suraxani,qaracuxur,2,50,1,4,117000
+suraxani,zig,3,89,4,14,175500
+suraxani,gunesli,3,95,10,15,225000
+suraxani,gunesli,4,95,10,10,179500
+suraxani,gunesli,1,35,9,15,90000
+suraxani,hovsan,3,86,3,5,149500
+suraxani,qaracuxur,3,81,11,11,136000
+suraxani,hovsan,3,69,5,5,89000
+suraxani,gunesli,4,127,2,9,245000
+suraxani,hovsan,4,118,5,5,185000
+suraxani,qaracuxur,4,93,3,4,220000
+suraxani,qaracuxur,4,108,5,12,220000
+suraxani,zig,5,143,14,14,199500
+suraxani,gunesli,3,99,7,9,236000
+suraxani,gunesli,2,65,5,10,184500
+suraxani,gunesli,2,72,8,9,135000
+suraxani,qaracuxur,3,87,1,5,173000
+suraxani,hovsan,4,115,1,5,184000
+suraxani,gunesli,3,85,8,9,223000
+suraxani,gunesli,3,92,4,15,228500
+suraxani,gunesli,2,57,8,10,92000
+suraxani,qaracuxur,2,55,6,12,113000
+suraxani,qaracuxur,3,74,9,11,176000
+suraxani,qaracuxur,1,44,2,5,91500
+suraxani,gunesli,3,85,9,9,182500
+suraxani,hovsan,2,57,5,9,96000
+suraxani,zig,2,67,3,9,127000
+suraxani,gunesli,3,74,8,15,181000
+suraxani,hovsan,1,37,3,9,65000
+suraxani,gunesli,2,61,1,14,109000
+suraxani,gunesli,3,98,11,15,229500
+suraxani,zig,4,96,5,5,127000
+suraxani,gunesli,3,104,2,10,245000
+suraxani,gunesli,4,125,6,9,245000
+suraxani,zig,2,56,2,9,92500
+suraxani,gunesli,3,84,2,15,204500
+suraxani,gunesli,2,62,1,9,142000
+suraxani,hovsan,3,85,7,7,137500
+suraxani,gunesli,2,62,4,9,125500
+suraxani,qaracuxur,3,74,11,11,148500
+suraxani,zig,1,38,1,9,70000
+suraxani,hovsan,3,72,4,9,93000
+suraxani,zig,2,54,8,9,97500
+suraxani,gunesli,3,97,4,10,237500
+suraxani,gunesli,3,98,11,15,213000
+suraxani,zig,2,60,6,14,93500
+suraxani,hovsan,5,136,2,7,185000
+suraxani,qaracuxur,2,63,4,4,138500
+suraxani,qaracuxur,3,71,1,12,167500
+suraxani,gunesli,2,69,5,10,152500
+suraxani,gunesli,4,111,2,9,245000
+suraxani,zig,4,125,6,9,167000
+suraxani,qaracuxur,2,45,2,5,103500
+suraxani,hovsan,3,78,4,5,133000
+suraxani,hovsan,4,118,9,9,185000
+suraxani,qaracuxur,1,42,3,5,90500
+suraxani,qaracuxur,3,98,5,5,205000
+suraxani,qaracuxur,3,105,7,12,220000
+suraxani,zig,3,81,8,9,142500
+suraxani,gunesli,3,101,14,14,183000
+suraxani,hovsan,3,65,4,7,92000
+suraxani,hovsan,4,95,5,9,124500
+suraxani,gunesli,1,41,8,14,91500
+suraxani,zig,2,65,3,5,80500
+suraxani,zig,2,58,1,5,110500
+suraxani,zig,2,50,3,9,70000
+suraxani,zig,4,112,2,5,143500
+suraxani,hovsan,4,93,3,5,130500
+suraxani,qaracuxur,2,66,1,4,106500
+suraxani,gunesli,5,123,5,15,245000
+suraxani,qaracuxur,2,60,9,11,175000
+suraxani,hovsan,3,76,2,7,101000
+suraxani,zig,2,59,3,5,70000
+suraxani,qaracuxur,2,65,1,5,135500
+suraxani,gunesli,3,87,10,15,187000
+suraxani,gunesli,3,90,9,9,235500
+suraxani,hovsan,1,45,2,5,75500
+suraxani,zig,5,134,3,5,210000
+suraxani,qaracuxur,3,97,5,5,190000
+suraxani,gunesli,3,80,4,9,199500
+suraxani,hovsan,4,94,6,9,145500
+suraxani,hovsan,5,119,3,9,185000
+suraxani,gunesli,3,80,8,15,156000
+suraxani,gunesli,2,67,3,9,180000
+suraxani,zig,4,112,11,14,187500
+suraxani,qaracuxur,2,67,12,12,134500
+suraxani,qaracuxur,2,57,6,11,91000
+suraxani,qaracuxur,1,40,3,4,80000
+suraxani,zig,2,54,4,9,83500
+suraxani,qaracuxur,2,65,3,11,175000
+suraxani,zig,4,106,9,9,129500
+suraxani,qaracuxur,3,102,4,4,190500
+suraxani,gunesli,2,67,12,14,145500
+suraxani,zig,3,90,2,14,112500
+suraxani,zig,4,121,6,9,149000
+suraxani,hovsan,2,60,3,7,97500
+suraxani,qaracuxur,2,59,5,5,144000
+suraxani,zig,3,77,9,9,148500
+suraxani,qaracuxur,3,88,5,12,201500
+suraxani,hovsan,3,75,2,7,138500
+suraxani,qaracuxur,2,66,3,4,173000
+suraxani,qaracuxur,3,85,2,4,212500
+suraxani,hovsan,4,105,3,7,185000
+suraxani,gunesli,5,154,2,14,245000
+suraxani,zig,2,61,7,14,121500
+suraxani,zig,4,128,10,14,210000
+suraxani,qaracuxur,2,51,2,5,117000
+suraxani,hovsan,4,95,3,9,124500
+suraxani,qaracuxur,3,88,9,12,206000
+suraxani,hovsan,4,108,1,5,185000
+suraxani,zig,4,112,2,5,210000
+suraxani,gunesli,4,111,11,15,245000
+suraxani,gunesli,1,36,9,14,108500
+suraxani,gunesli,2,75,5,9,152500
+suraxani,gunesli,3,77,2,15,149500
+suraxani,zig,4,121,8,9,210000
+suraxani,qaracuxur,2,66,11,12,141500
+suraxani,gunesli,3,86,4,14,186000
+suraxani,gunesli,3,105,9,15,240000
+suraxani,gunesli,3,97,13,14,229000
+suraxani,gunesli,2,61,5,10,135500
+suraxani,zig,2,54,1,5,71000
+suraxani,hovsan,3,93,4,5,167000
+suraxani,gunesli,3,73,9,10,174500
+suraxani,hovsan,4,95,4,5,172000
+suraxani,gunesli,3,88,5,9,179500
+suraxani,gunesli,4,126,4,15,245000
+suraxani,qaracuxur,2,67,3,11,159500
+suraxani,zig,3,82,9,9,156500
+suraxani,qaracuxur,2,68,5,5,164000
+suraxani,qaracuxur,2,52,1,11,126000
+suraxani,qaracuxur,1,45,3,4,97500
+suraxani,qaracuxur,3,103,3,12,194000
+suraxani,zig,3,87,11,14,173000
+suraxani,zig,3,100,6,9,139000
+suraxani,zig,2,59,1,14,107000
+suraxani,hovsan,3,88,1,9,155500
+suraxani,qaracuxur,3,72,1,4,107500
+suraxani,qaracuxur,2,53,4,4,92500
+suraxani,gunesli,3,94,9,10,241500
+suraxani,gunesli,2,60,3,15,113500
+suraxani,gunesli,3,70,10,15,168000
+suraxani,qaracuxur,2,61,7,11,116000
+suraxani,qaracuxur,3,85,7,12,192000
+suraxani,hovsan,2,40,2,9,65000
+suraxani,gunesli,3,95,3,15,215500
+suraxani,zig,1,35,3,14,70000
+suraxani,qaracuxur,4,117,3,4,220000
+suraxani,qaracuxur,3,94,2,11,178500
+suraxani,zig,2,64,2,14,109500
+suraxani,zig,5,149,4,5,210000
+suraxani,zig,3,83,3,9,107500
+suraxani,gunesli,3,98,9,15,240500
+suraxani,hovsan,4,92,5,7,185000
+suraxani,zig,2,56,9,9,116000
+suraxani,hovsan,3,81,6,7,121500
+suraxani,gunesli,2,70,4,15,128000
+suraxani,hovsan,2,48,1,9,65000
+suraxani,gunesli,3,105,8,10,245000
+suraxani,zig,4,125,7,9,151500
+suraxani,zig,4,124,8,9,210000
+suraxani,zig,2,56,1,5,73500
+suraxani,qaracuxur,4,94,4,11,176000
+suraxani,hovsan,1,34,1,5,65000
+suraxani,zig,5,132,10,14,210000
+suraxani,zig,1,45,3,5,70000
+suraxani,qaracuxur,2,53,11,12,111500
+suraxani,qaracuxur,2,58,4,5,165000
+suraxani,zig,5,125,9,14,210000
+suraxani,gunesli,3,91,3,14,162500
+suraxani,zig,2,68,7,14,114500
+suraxani,zig,5,119,5,9,203000
+suraxani,qaracuxur,3,96,2,5,195000
+suraxani,hovsan,4,120,4,7,185000
+suraxani,gunesli,2,65,13,14,136000
+suraxani,gunesli,4,105,10,15,222000
+suraxani,gunesli,3,105,1,15,234000
+suraxani,gunesli,2,68,3,10,145500
+suraxani,zig,5,118,11,14,193500
+suraxani,hovsan,5,144,5,9,185000
+suraxani,hovsan,4,96,2,7,185000
+suraxani,qaracuxur,2,53,3,11,80000
+suraxani,gunesli,2,69,4,9,170500
+suraxani,zig,3,96,9,14,151000
+yasamal,yasamal,3,149,3,16,590500
+yasamal,yasamal,3,74,6,16,236000
+yasamal,yasamal,3,153,2,5,567000
+yasamal,yasamal,3,121,8,19,437000
+yasamal,yasamal,2,54,6,9,156000
+yasamal,yasamal,3,151,4,16,413500
+yasamal,yasamal,3,131,5,5,401000
+yasamal,yasamal,1,46,11,19,183000
+yasamal,yasamal,2,59,1,9,149500
+yasamal,yasamal,3,112,17,19,440500
+yasamal,yasamal,2,52,8,16,130000
+yasamal,yasamal,2,78,3,9,195500
+yasamal,yasamal,3,137,6,9,487500
+yasamal,yasamal,2,48,8,9,155000
+yasamal,yasamal,2,78,13,16,201500
+yasamal,yasamal,3,115,13,16,463500
+yasamal,yasamal,3,81,4,16,239500
+yasamal,yasamal,2,60,9,9,130000
+yasamal,yasamal,2,64,6,16,189500
+yasamal,yasamal,2,60,1,9,130000
+yasamal,yasamal,4,112,1,9,432500
+yasamal,yasamal,3,88,17,19,326500
+yasamal,yasamal,1,37,15,18,130000
+yasamal,yasamal,4,158,18,18,574500
+yasamal,yasamal,3,80,4,5,227500
+yasamal,yasamal,2,80,4,19,279500
+yasamal,yasamal,3,151,6,9,566500
+yasamal,yasamal,2,54,9,9,130000
+yasamal,yasamal,2,71,15,19,235000
+yasamal,yasamal,3,91,14,19,295500
+yasamal,yasamal,2,70,17,18,187000
+yasamal,yasamal,3,137,3,9,566500
+yasamal,yasamal,3,150,13,19,479500
+yasamal,yasamal,3,154,5,19,538000
+yasamal,yasamal,3,122,9,19,435000
+yasamal,yasamal,3,109,1,9,281000
+yasamal,yasamal,3,88,3,5,374500
+yasamal,yasamal,2,57,7,16,235500
+yasamal,yasamal,2,65,7,19,225000
+yasamal,yasamal,3,109,15,18,320500
+yasamal,yasamal,3,77,8,16,249000
+yasamal,yasamal,4,159,9,9,463000
+yasamal,yasamal,3,134,16,19,548500
+yasamal,yasamal,2,53,2,5,138500
+yasamal,yasamal,5,192,5,9,650000
+yasamal,yasamal,4,119,8,9,394500
+yasamal,yasamal,1,41,18,19,138000
+yasamal,yasamal,2,52,1,5,130000
+yasamal,yasamal,2,50,4,5,165000
+yasamal,yasamal,3,154,5,19,620500
+yasamal,yasamal,2,51,8,9,141500
+yasamal,yasamal,3,147,7,9,483500
+yasamal,yasamal,2,67,4,5,218000
+yasamal,yasamal,2,57,19,19,172000
+yasamal,yasamal,2,55,5,19,200500
+yasamal,yasamal,2,78,3,9,250500
+yasamal,yasamal,3,152,9,18,650000
+yasamal,yasamal,2,68,8,18,154000
+yasamal,yasamal,4,108,1,5,347500
+yasamal,yasamal,1,40,4,5,140500
+yasamal,yasamal,4,101,11,16,298500
+yasamal,yasamal,2,50,1,5,139500
+yasamal,yasamal,2,81,9,19,216000
+yasamal,yasamal,3,95,5,19,313500
+yasamal,yasamal,2,74,4,9,218500
+yasamal,yasamal,2,76,3,9,223000
+yasamal,yasamal,3,77,8,9,344500
+yasamal,yasamal,3,79,2,5,358500
+yasamal,yasamal,3,110,7,9,304500
+yasamal,yasamal,2,75,17,18,197000
+yasamal,yasamal,2,74,11,18,219500
+yasamal,yasamal,4,160,1,5,401500
+yasamal,yasamal,2,59,4,16,169000
+yasamal,yasamal,2,71,16,18,173500
+yasamal,yasamal,1,36,9,9,130000
+yasamal,yasamal,2,63,12,16,223000
+yasamal,yasamal,2,62,10,18,173500
+yasamal,yasamal,3,106,10,18,366500
+yasamal,yasamal,3,94,11,16,398000
+yasamal,yasamal,3,104,5,9,443500
+yasamal,yasamal,3,100,1,19,420000
+yasamal,yasamal,5,185,9,9,612000
+yasamal,yasamal,3,149,13,16,523500
+yasamal,yasamal,3,110,12,18,310000
+yasamal,yasamal,3,72,1,19,242000
+yasamal,yasamal,3,141,4,19,411500
+yasamal,yasamal,3,119,17,18,412000
+yasamal,yasamal,2,51,2,9,130000
+yasamal,yasamal,2,72,11,19,226500
+yasamal,yasamal,3,149,3,5,462000
+yasamal,yasamal,3,147,12,19,599500
+yasamal,yasamal,3,147,7,16,490000
+yasamal,yasamal,4,115,2,19,303500
+yasamal,yasamal,2,60,15,19,238000
+yasamal,yasamal,2,48,1,9,130000
+yasamal,yasamal,3,127,9,9,468000
+yasamal,yasamal,2,69,5,9,227000
+yasamal,yasamal,2,64,2,5,183000
+yasamal,yasamal,4,150,8,18,508000
+yasamal,yasamal,3,142,1,5,499500
+yasamal,yasamal,1,34,9,9,130000
+yasamal,yasamal,3,95,7,9,306500
+yasamal,yasamal,3,105,8,16,329000
+yasamal,yasamal,2,72,7,19,230500
+yasamal,yasamal,3,76,3,9,187000
+yasamal,yasamal,2,71,3,19,175500
+yasamal,yasamal,3,102,16,18,426000
+yasamal,yasamal,4,100,12,18,297000
+yasamal,yasamal,4,137,9,16,409500
+yasamal,yasamal,1,36,3,9,156000
+yasamal,yasamal,2,51,5,5,153000
+yasamal,yasamal,4,108,1,5,373500
+yasamal,yasamal,3,129,9,9,409000
+yasamal,yasamal,3,127,7,18,350500
+yasamal,yasamal,2,59,4,18,173000
+yasamal,yasamal,3,76,2,5,266000
+yasamal,yasamal,3,137,15,16,441000
+yasamal,yasamal,2,74,7,16,235500
+yasamal,yasamal,2,77,2,19,196000
+yasamal,yasamal,3,108,13,19,346000
+yasamal,yasamal,3,119,4,19,382000
+yasamal,yasamal,3,118,15,19,398500
+yasamal,yasamal,3,80,12,19,208000
+yasamal,yasamal,2,55,1,18,130000
+yasamal,yasamal,3,135,8,16,504500
+yasamal,yasamal,2,55,6,9,168500
+yasamal,yasamal,2,74,10,16,271500
+yasamal,yasamal,4,153,3,5,443500
+yasamal,yasamal,3,133,6,19,548500
+yasamal,yasamal,1,47,4,9,158000
+yasamal,yasamal,3,113,1,9,307000
+yasamal,yasamal,3,79,5,5,265500
+yasamal,yasamal,2,68,13,18,190500
+yasamal,yasamal,3,147,1,5,557500
+yasamal,yasamal,3,99,4,9,322000
+yasamal,yasamal,2,76,11,19,245000
+yasamal,yasamal,3,131,16,18,480500
+yasamal,yasamal,3,108,5,5,425500
+yasamal,yasamal,3,78,5,5,247000
+yasamal,yasamal,3,87,2,16,353500
+yasamal,yasamal,4,152,3,5,438000
+yasamal,yasamal,4,129,13,19,467000
+yasamal,yasamal,3,71,9,16,222500
+yasamal,yasamal,3,67,5,5,247500
+yasamal,yasamal,4,138,4,9,407500
+yasamal,yasamal,1,41,15,16,130500
+yasamal,yasamal,2,65,3,19,218500
+yasamal,yasamal,4,163,6,19,572500
+yasamal,yasamal,2,82,3,9,244000
+yasamal,yasamal,4,127,14,19,302000
+yasamal,yasamal,1,35,4,5,160000
+yasamal,yasamal,3,89,4,5,335000
+yasamal,yasamal,4,105,9,16,368000
+yasamal,yasamal,4,157,9,19,494000
+yasamal,yasamal,2,77,1,19,270500
+yasamal,yasamal,2,48,17,18,165500
+yasamal,yasamal,3,146,6,9,540500
+yasamal,yasamal,2,82,1,5,220000
+yasamal,yasamal,2,69,9,18,228000
+yasamal,yasamal,2,53,14,19,214000
+yasamal,yasamal,3,115,6,16,336000
+yasamal,yasamal,2,59,3,9,131000
+yasamal,yasamal,4,126,8,9,331000
+yasamal,yasamal,4,158,14,18,430500
+yasamal,yasamal,2,63,5,5,169000
+yasamal,yasamal,3,131,15,18,507000
+yasamal,yasamal,4,141,13,19,434500
+yasamal,yasamal,3,83,9,16,241500
+yasamal,yasamal,2,81,8,9,206500
+yasamal,yasamal,3,78,2,9,215500
+yasamal,yasamal,3,105,2,9,397500
+yasamal,yasamal,3,63,9,9,187500
+yasamal,yasamal,4,163,1,18,479500
+yasamal,yasamal,4,113,4,5,436500
+yasamal,yasamal,3,87,6,9,243500
+yasamal,yasamal,3,63,16,18,222000
+yasamal,yasamal,2,76,7,19,218500
+yasamal,yasamal,2,62,6,9,194000
+yasamal,yasamal,3,76,9,18,273000
+yasamal,yasamal,2,58,5,16,130000
+yasamal,yasamal,3,135,10,18,453500
+yasamal,yasamal,3,64,4,16,227500
+yasamal,yasamal,1,39,11,18,130000
+yasamal,yasamal,5,198,9,19,542000
+yasamal,yasamal,2,57,8,18,185500
+yasamal,yasamal,3,128,9,9,452000
+yasamal,yasamal,4,124,3,18,318500
+yasamal,yasamal,4,114,14,19,341000
+yasamal,yasamal,3,122,4,5,433000
+yasamal,yasamal,3,108,5,5,342500
+yasamal,yasamal,2,70,5,16,191500
+yasamal,yasamal,2,70,5,19,170000
+yasamal,yasamal,4,153,5,5,478000
+yasamal,yasamal,3,135,4,5,418000
+yasamal,yasamal,4,134,2,5,332000
+yasamal,yasamal,1,33,6,18,143000
+yasamal,yasamal,3,117,2,9,428500
+yasamal,yasamal,2,79,4,18,245000
+yasamal,yasamal,3,93,17,19,296500
+yasamal,yasamal,3,85,5,5,274000
+yasamal,yasamal,3,109,3,18,410500
+yasamal,yasamal,4,159,7,19,610000
+yasamal,yasamal,3,128,1,16,447000
+yasamal,yasamal,3,120,8,19,392500
+yasamal,yasamal,3,111,7,16,363500
+yasamal,yasamal,4,130,5,5,391500
+yasamal,yasamal,3,125,2,5,468000
+yasamal,yasamal,3,85,1,5,276000
+yasamal,yasamal,3,146,6,18,562500
+yasamal,yasamal,4,137,5,18,468000
+yasamal,yasamal,4,139,10,16,482500
+yasamal,yasamal,2,67,18,19,141000
+yasamal,yasamal,3,126,3,16,447000
+yasamal,yasamal,2,59,10,19,154500
+yasamal,yasamal,4,127,7,19,362000
+yasamal,yasamal,3,148,1,9,538000
+yasamal,yasamal,3,98,5,19,325000
+yasamal,yasamal,3,112,12,18,343000
+yasamal,yasamal,3,134,1,5,461500
+yasamal,yasamal,2,61,11,16,233000
+yasamal,yasamal,3,69,1,9,233000
+yasamal,yasamal,3,71,1,18,201500
+yasamal,yasamal,3,65,8,19,271500
+yasamal,yasamal,2,69,1,5,188500
+yasamal,yasamal,3,128,1,9,506000
+yasamal,yasamal,4,160,12,16,467000
+yasamal,yasamal,3,122,16,16,372500
+yasamal,yasamal,4,110,4,9,307000
+yasamal,yasamal,3,139,5,9,506000
+yasamal,yasamal,3,145,16,16,452000
+yasamal,yasamal,2,48,3,5,185500
+yasamal,yasamal,4,133,11,18,416500
+yasamal,yasamal,2,65,7,9,223500
+yasamal,yasamal,3,149,2,19,479500
+yasamal,yasamal,3,98,4,19,343000
+yasamal,yasamal,4,141,1,9,367500
+yasamal,yasamal,2,64,10,18,157500
+yasamal,yasamal,3,85,8,18,327500
+yasamal,yasamal,4,161,16,18,378000
+yasamal,yasamal,2,62,16,16,204500
+yasamal,yasamal,3,143,3,19,477000
+yasamal,yasamal,2,63,1,5,195500
+yasamal,yasamal,3,98,1,5,278500
+yasamal,yasamal,5,186,2,16,639000
+yasamal,yasamal,3,137,6,19,425000
+yasamal,yasamal,4,164,9,16,512500
+yasamal,yasamal,4,114,7,18,366500
+yasamal,yasamal,2,72,10,16,198000
+yasamal,yasamal,2,60,11,16,190000
+yasamal,yasamal,4,148,8,19,494500

@@ -1,0 +1,9 @@
+{
+    "original_rows": 2900,
+    "original_columns": 7,
+    "processed_rows": 2900,
+    "processed_columns": 8,
+    "added_features": [
+        "area_per_room"
+    ]
+}

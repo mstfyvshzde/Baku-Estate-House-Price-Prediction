@@ -1,0 +1,9 @@
+{
+    "test_rows": 580,
+    "test_mae": 26730.938911502617,
+    "test_rmse": 39430.512213896895,
+    "test_r2": 0.9364487643063676,
+    "avg_percentage_error": 11.696568965517242,
+    "max_absolute_error": 277035.85,
+    "min_absolute_error": 138.11000000000058
+}
